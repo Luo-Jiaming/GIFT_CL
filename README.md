@@ -52,7 +52,7 @@ We use `Stable Diffusion` v1.5 for inference via the toolkit [diffusers](https:/
 pip install --upgrade diffusers[torch]
 ```
 
-We have prepared the prompts we use in path `./synthetic_a` in advance, and can directly run `txt2img.py` to generate synthetic images:
+We have prepared the prompts we use in path `./data/synthetic` in advance, and can directly run `txt2img.py` to generate synthetic images:
 
 ```bash
 # Generate for MTIL Order I

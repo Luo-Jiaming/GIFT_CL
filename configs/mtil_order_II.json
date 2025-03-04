@@ -1,0 +1,20 @@
+{
+    "_comment": "MTIL in order II",
+    "train":true,
+    "evaluate":true,
+    "zero-shot":false,
+    "exp_no": "mtil_order_II",
+    "train_dataset": ["StanfordCars", "Food", "MNIST", "OxfordPet", "Flowers", "SUN397", "Aircraft", "Caltech101", "DTD", "EuroSAT", "CIFAR100"],
+    "eval_dataset": ["StanfordCars", "Food", "MNIST", "OxfordPet", "Flowers", "SUN397", "Aircraft", "Caltech101", "DTD", "EuroSAT", "CIFAR100"],
+    "learning_rate": ["1e-5", "1e-5", "5e-5", "1e-5", "1e-5", "1e-5", "5e-5", "1e-5", "1e-5", "1e-5", "1e-5", "1e-5"],
+    "iterations": "1000",
+    "label_smoothing": "0.2",
+    "ita": "0.25",
+    "L2": "1",
+    "distill": "1",
+    "train_loss":"cross_entropy",
+    "devices":[0,1,2],
+    "ref_model":"load",
+    "ref_dataset":"SyntheticDataset_B",
+    "awc":true
+}

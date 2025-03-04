@@ -1,0 +1,7 @@
+{
+    "_comment": "configure the path for project",
+    "CL_DATA_LOCATION": null,
+    "MTIL_DATA_LOCATION": "./data/mtil",
+    "SYN_DATA_LOCATION": "./data/synthetic",
+    "CKPT_LOCATION": ".ckpt/"
+}

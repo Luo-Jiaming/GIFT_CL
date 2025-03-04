@@ -1,0 +1,1001 @@
+image,text
+./data/synthetic/synthetic_data_b/MNIST_Syn/0.jpeg,a photo of a Soft-coated Wheaten Terrier.
+./data/synthetic/synthetic_data_b/MNIST_Syn/1.jpeg,a photo of a oil filter.
+./data/synthetic/synthetic_data_b/MNIST_Syn/2.jpeg,a photo of a meerkat.
+./data/synthetic/synthetic_data_b/MNIST_Syn/3.jpeg,a photo of a tabby cat.
+./data/synthetic/synthetic_data_b/MNIST_Syn/4.jpeg,a photo of a tick.
+./data/synthetic/synthetic_data_b/MNIST_Syn/5.jpeg,a photo of a hammer.
+./data/synthetic/synthetic_data_b/MNIST_Syn/6.jpeg,a photo of a espresso.
+./data/synthetic/synthetic_data_b/MNIST_Syn/7.jpeg,a photo of a Siamese cat.
+./data/synthetic/synthetic_data_b/MNIST_Syn/8.jpeg,a photo of a chocolate syrup.
+./data/synthetic/synthetic_data_b/MNIST_Syn/9.jpeg,a photo of a crossword.
+./data/synthetic/synthetic_data_b/MNIST_Syn/10.jpeg,"a photo of a miso soup, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/11.jpeg,a photo of a brambling.
+./data/synthetic/synthetic_data_b/MNIST_Syn/12.jpeg,a photo of a Beagle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/13.jpeg,a photo of a banded gecko.
+./data/synthetic/synthetic_data_b/MNIST_Syn/14.jpeg,a photo of a cuirass.
+./data/synthetic/synthetic_data_b/MNIST_Syn/15.jpeg,a photo of a beer glass.
+./data/synthetic/synthetic_data_b/MNIST_Syn/16.jpeg,a photo of a rhinoceros beetle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/17.jpeg,"a photo of a HUMMER H3T Crew Cab 2010, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/18.jpeg,"a photo of a grilled salmon, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/19.jpeg,"a photo of a Chrysler PT Cruiser Convertible 2008, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/20.jpeg,a photo of a tractor.
+./data/synthetic/synthetic_data_b/MNIST_Syn/21.jpeg,a photo of a Australian Kelpie.
+./data/synthetic/synthetic_data_b/MNIST_Syn/22.jpeg,a photo of a hand-held computer.
+./data/synthetic/synthetic_data_b/MNIST_Syn/23.jpeg,a photo of a cello.
+./data/synthetic/synthetic_data_b/MNIST_Syn/24.jpeg,a photo of a knot.
+./data/synthetic/synthetic_data_b/MNIST_Syn/25.jpeg,a photo of a Alaskan Malamute.
+./data/synthetic/synthetic_data_b/MNIST_Syn/26.jpeg,a photo of a duck.
+./data/synthetic/synthetic_data_b/MNIST_Syn/27.jpeg,a photo of a chain.
+./data/synthetic/synthetic_data_b/MNIST_Syn/28.jpeg,a photo of a toaster.
+./data/synthetic/synthetic_data_b/MNIST_Syn/29.jpeg,"a photo of a prime rib, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/30.jpeg,a photo of a cabbage.
+./data/synthetic/synthetic_data_b/MNIST_Syn/31.jpeg,a photo of a black stork.
+./data/synthetic/synthetic_data_b/MNIST_Syn/32.jpeg,a photo of a Australian Kelpie.
+./data/synthetic/synthetic_data_b/MNIST_Syn/33.jpeg,"a photo of a Audi S4 Sedan 2007, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/34.jpeg,"a photo of a crab cakes, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/35.jpeg,"a photo of a Eagle Talon Hatchback 1998, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/36.jpeg,a photo of a loggerhead sea turtle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/37.jpeg,"a photo of a tiramisu, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/38.jpeg,"a photo of a Chevrolet Corvette ZR1 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/39.jpeg,"a photo of a Scion xD Hatchback 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/40.jpeg,a photo of a china cabinet.
+./data/synthetic/synthetic_data_b/MNIST_Syn/41.jpeg,a photo of a brown bear.
+./data/synthetic/synthetic_data_b/MNIST_Syn/42.jpeg,a photo of a hatchet.
+./data/synthetic/synthetic_data_b/MNIST_Syn/43.jpeg,a photo of a umbrella.
+./data/synthetic/synthetic_data_b/MNIST_Syn/44.jpeg,a photo of a tiger shark.
+./data/synthetic/synthetic_data_b/MNIST_Syn/45.jpeg,"a photo of a macarons, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/46.jpeg,a photo of a ping-pong ball.
+./data/synthetic/synthetic_data_b/MNIST_Syn/47.jpeg,a photo of a storage chest.
+./data/synthetic/synthetic_data_b/MNIST_Syn/48.jpeg,"a photo of a Nissan NV Passenger Van 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/49.jpeg,a photo of a thatched roof.
+./data/synthetic/synthetic_data_b/MNIST_Syn/50.jpeg,a photo of a ring-tailed lemur.
+./data/synthetic/synthetic_data_b/MNIST_Syn/51.jpeg,a photo of a Otterhound.
+./data/synthetic/synthetic_data_b/MNIST_Syn/52.jpeg,"a photo of a Chevrolet Malibu Sedan 2007, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/53.jpeg,a photo of a plant pot.
+./data/synthetic/synthetic_data_b/MNIST_Syn/54.jpeg,a photo of a bustard.
+./data/synthetic/synthetic_data_b/MNIST_Syn/55.jpeg,"a photo of a Chrysler Town and Country Minivan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/56.jpeg,"a photo of a Ford Focus Sedan 2007, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/57.jpeg,"a photo of a Bentley Arnage Sedan 2009, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/58.jpeg,"a photo of a Bentley Arnage Sedan 2009, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/59.jpeg,"a photo of a Hyundai Elantra Sedan 2007, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/60.jpeg,a photo of a desert grassland whiptail lizard.
+./data/synthetic/synthetic_data_b/MNIST_Syn/61.jpeg,a photo of a sliding door.
+./data/synthetic/synthetic_data_b/MNIST_Syn/62.jpeg,a photo of a meatloaf.
+./data/synthetic/synthetic_data_b/MNIST_Syn/63.jpeg,a photo of a sulphur-crested cockatoo.
+./data/synthetic/synthetic_data_b/MNIST_Syn/64.jpeg,a photo of a shovel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/65.jpeg,a photo of a rifle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/66.jpeg,a photo of a crate.
+./data/synthetic/synthetic_data_b/MNIST_Syn/67.jpeg,a photo of a loggerhead sea turtle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/68.jpeg,a photo of a plunger.
+./data/synthetic/synthetic_data_b/MNIST_Syn/69.jpeg,a photo of a bustard.
+./data/synthetic/synthetic_data_b/MNIST_Syn/70.jpeg,a photo of a patio.
+./data/synthetic/synthetic_data_b/MNIST_Syn/71.jpeg,a photo of a chiffonier.
+./data/synthetic/synthetic_data_b/MNIST_Syn/72.jpeg,"a photo of a spaghetti bolognese, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/73.jpeg,a photo of a English Setter.
+./data/synthetic/synthetic_data_b/MNIST_Syn/74.jpeg,"a photo of a Volkswagen Beetle Hatchback 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/75.jpeg,a photo of a baby pacifier.
+./data/synthetic/synthetic_data_b/MNIST_Syn/76.jpeg,a photo of a dingo.
+./data/synthetic/synthetic_data_b/MNIST_Syn/77.jpeg,a photo of a lorikeet.
+./data/synthetic/synthetic_data_b/MNIST_Syn/78.jpeg,a photo of a pillow.
+./data/synthetic/synthetic_data_b/MNIST_Syn/79.jpeg,"a photo of a GMC Savana Van 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/80.jpeg,a photo of a paddle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/81.jpeg,a photo of a European polecat.
+./data/synthetic/synthetic_data_b/MNIST_Syn/82.jpeg,a photo of a lemon.
+./data/synthetic/synthetic_data_b/MNIST_Syn/83.jpeg,a photo of a volcano.
+./data/synthetic/synthetic_data_b/MNIST_Syn/84.jpeg,"a photo of a takoyaki, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/85.jpeg,a photo of a macaque.
+./data/synthetic/synthetic_data_b/MNIST_Syn/86.jpeg,a photo of a hyena.
+./data/synthetic/synthetic_data_b/MNIST_Syn/87.jpeg,a photo of a spoonbill.
+./data/synthetic/synthetic_data_b/MNIST_Syn/88.jpeg,a photo of a broccoli.
+./data/synthetic/synthetic_data_b/MNIST_Syn/89.jpeg,a photo of a southern black widow.
+./data/synthetic/synthetic_data_b/MNIST_Syn/90.jpeg,a photo of a hook.
+./data/synthetic/synthetic_data_b/MNIST_Syn/91.jpeg,a photo of a trash can.
+./data/synthetic/synthetic_data_b/MNIST_Syn/92.jpeg,a photo of a sulphur-crested cockatoo.
+./data/synthetic/synthetic_data_b/MNIST_Syn/93.jpeg,a photo of a amphibious vehicle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/94.jpeg,a photo of a quail.
+./data/synthetic/synthetic_data_b/MNIST_Syn/95.jpeg,a photo of a maze.
+./data/synthetic/synthetic_data_b/MNIST_Syn/96.jpeg,a photo of a magnetic compass.
+./data/synthetic/synthetic_data_b/MNIST_Syn/97.jpeg,"a photo of a Chevrolet Corvette ZR1 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/98.jpeg,a photo of a spider web.
+./data/synthetic/synthetic_data_b/MNIST_Syn/99.jpeg,"a photo of a Ford F-150 Regular Cab 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/100.jpeg,a photo of a eggnog.
+./data/synthetic/synthetic_data_b/MNIST_Syn/101.jpeg,a photo of a crash helmet.
+./data/synthetic/synthetic_data_b/MNIST_Syn/102.jpeg,a photo of a European garden spider.
+./data/synthetic/synthetic_data_b/MNIST_Syn/103.jpeg,a photo of a silver salmon.
+./data/synthetic/synthetic_data_b/MNIST_Syn/104.jpeg,a photo of a hair spray.
+./data/synthetic/synthetic_data_b/MNIST_Syn/105.jpeg,a photo of a plunger.
+./data/synthetic/synthetic_data_b/MNIST_Syn/106.jpeg,a photo of a duck.
+./data/synthetic/synthetic_data_b/MNIST_Syn/107.jpeg,a photo of a necklace.
+./data/synthetic/synthetic_data_b/MNIST_Syn/108.jpeg,a photo of a folding chair.
+./data/synthetic/synthetic_data_b/MNIST_Syn/109.jpeg,a photo of a pug.
+./data/synthetic/synthetic_data_b/MNIST_Syn/110.jpeg,a photo of a radiator.
+./data/synthetic/synthetic_data_b/MNIST_Syn/111.jpeg,a photo of a wardrobe.
+./data/synthetic/synthetic_data_b/MNIST_Syn/112.jpeg,a photo of a stage.
+./data/synthetic/synthetic_data_b/MNIST_Syn/113.jpeg,a photo of a water tower.
+./data/synthetic/synthetic_data_b/MNIST_Syn/114.jpeg,a photo of a shopping cart.
+./data/synthetic/synthetic_data_b/MNIST_Syn/115.jpeg,a photo of a paddle wheel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/116.jpeg,a photo of a common squirrel monkey.
+./data/synthetic/synthetic_data_b/MNIST_Syn/117.jpeg,"a photo of a Audi 100 Sedan 1994, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/118.jpeg,"a photo of a Audi TT Hatchback 2011, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/119.jpeg,a photo of a racket.
+./data/synthetic/synthetic_data_b/MNIST_Syn/120.jpeg,"a photo of a Chevrolet Express Cargo Van 2007, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/121.jpeg,a photo of a electric guitar.
+./data/synthetic/synthetic_data_b/MNIST_Syn/122.jpeg,a photo of a borzoi.
+./data/synthetic/synthetic_data_b/MNIST_Syn/123.jpeg,a photo of a trench coat.
+./data/synthetic/synthetic_data_b/MNIST_Syn/124.jpeg,a photo of a Basset Hound.
+./data/synthetic/synthetic_data_b/MNIST_Syn/125.jpeg,a photo of a upright piano.
+./data/synthetic/synthetic_data_b/MNIST_Syn/126.jpeg,"a photo of a filet mignon, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/127.jpeg,a photo of a siamang.
+./data/synthetic/synthetic_data_b/MNIST_Syn/128.jpeg,"a photo of a GMC Terrain SUV 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/129.jpeg,a photo of a hoop skirt.
+./data/synthetic/synthetic_data_b/MNIST_Syn/130.jpeg,a photo of a missile.
+./data/synthetic/synthetic_data_b/MNIST_Syn/131.jpeg,a photo of a German Shorthaired Pointer.
+./data/synthetic/synthetic_data_b/MNIST_Syn/132.jpeg,a photo of a Bloodhound.
+./data/synthetic/synthetic_data_b/MNIST_Syn/133.jpeg,a photo of a mountain bike.
+./data/synthetic/synthetic_data_b/MNIST_Syn/134.jpeg,a photo of a iPod.
+./data/synthetic/synthetic_data_b/MNIST_Syn/135.jpeg,a photo of a limousine.
+./data/synthetic/synthetic_data_b/MNIST_Syn/136.jpeg,a photo of a shipwreck.
+./data/synthetic/synthetic_data_b/MNIST_Syn/137.jpeg,"a photo of a fish and chips, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/138.jpeg,a photo of a tripod.
+./data/synthetic/synthetic_data_b/MNIST_Syn/139.jpeg,a photo of a pig.
+./data/synthetic/synthetic_data_b/MNIST_Syn/140.jpeg,a photo of a wok.
+./data/synthetic/synthetic_data_b/MNIST_Syn/141.jpeg,a photo of a piggy bank.
+./data/synthetic/synthetic_data_b/MNIST_Syn/142.jpeg,a photo of a yurt.
+./data/synthetic/synthetic_data_b/MNIST_Syn/143.jpeg,a photo of a partridge.
+./data/synthetic/synthetic_data_b/MNIST_Syn/144.jpeg,a photo of a ping-pong ball.
+./data/synthetic/synthetic_data_b/MNIST_Syn/145.jpeg,"a photo of a macarons, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/146.jpeg,a photo of a volleyball.
+./data/synthetic/synthetic_data_b/MNIST_Syn/147.jpeg,a photo of a fountain.
+./data/synthetic/synthetic_data_b/MNIST_Syn/148.jpeg,a photo of a chambered nautilus.
+./data/synthetic/synthetic_data_b/MNIST_Syn/149.jpeg,a photo of a Maltese.
+./data/synthetic/synthetic_data_b/MNIST_Syn/150.jpeg,a photo of a couch.
+./data/synthetic/synthetic_data_b/MNIST_Syn/151.jpeg,a photo of a missile.
+./data/synthetic/synthetic_data_b/MNIST_Syn/152.jpeg,"a photo of a Cadillac CTS-V Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/153.jpeg,a photo of a starfish.
+./data/synthetic/synthetic_data_b/MNIST_Syn/154.jpeg,a photo of a Indian cobra.
+./data/synthetic/synthetic_data_b/MNIST_Syn/155.jpeg,a photo of a tiger.
+./data/synthetic/synthetic_data_b/MNIST_Syn/156.jpeg,"a photo of a greek salad, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/157.jpeg,a photo of a washing machine.
+./data/synthetic/synthetic_data_b/MNIST_Syn/158.jpeg,a photo of a scorpion.
+./data/synthetic/synthetic_data_b/MNIST_Syn/159.jpeg,a photo of a Samoyed.
+./data/synthetic/synthetic_data_b/MNIST_Syn/160.jpeg,a photo of a American coot.
+./data/synthetic/synthetic_data_b/MNIST_Syn/161.jpeg,a photo of a castle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/162.jpeg,a photo of a quilt.
+./data/synthetic/synthetic_data_b/MNIST_Syn/163.jpeg,a photo of a prayer rug.
+./data/synthetic/synthetic_data_b/MNIST_Syn/164.jpeg,a photo of a screwdriver.
+./data/synthetic/synthetic_data_b/MNIST_Syn/165.jpeg,"a photo of a Mercedes-Benz C-Class Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/166.jpeg,a photo of a Saharan horned viper.
+./data/synthetic/synthetic_data_b/MNIST_Syn/167.jpeg,"a photo of a fried calamari, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/168.jpeg,a photo of a cockroach.
+./data/synthetic/synthetic_data_b/MNIST_Syn/169.jpeg,a photo of a dust jacket.
+./data/synthetic/synthetic_data_b/MNIST_Syn/170.jpeg,a photo of a reflex camera.
+./data/synthetic/synthetic_data_b/MNIST_Syn/171.jpeg,a photo of a remote control.
+./data/synthetic/synthetic_data_b/MNIST_Syn/172.jpeg,a photo of a wok.
+./data/synthetic/synthetic_data_b/MNIST_Syn/173.jpeg,a photo of a Papillon.
+./data/synthetic/synthetic_data_b/MNIST_Syn/174.jpeg,"a photo of a Rolls-Royce Ghost Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/175.jpeg,a photo of a tabby cat.
+./data/synthetic/synthetic_data_b/MNIST_Syn/176.jpeg,"a photo of a Dodge Caravan Minivan 1997, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/177.jpeg,a photo of a race car.
+./data/synthetic/synthetic_data_b/MNIST_Syn/178.jpeg,a photo of a spider web.
+./data/synthetic/synthetic_data_b/MNIST_Syn/179.jpeg,a photo of a mask.
+./data/synthetic/synthetic_data_b/MNIST_Syn/180.jpeg,a photo of a gas mask or respirator.
+./data/synthetic/synthetic_data_b/MNIST_Syn/181.jpeg,a photo of a convertible.
+./data/synthetic/synthetic_data_b/MNIST_Syn/182.jpeg,a photo of a Border Collie.
+./data/synthetic/synthetic_data_b/MNIST_Syn/183.jpeg,a photo of a ring-necked snake.
+./data/synthetic/synthetic_data_b/MNIST_Syn/184.jpeg,a photo of a Geoffroy's spider monkey.
+./data/synthetic/synthetic_data_b/MNIST_Syn/185.jpeg,"a photo of a Audi S4 Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/186.jpeg,"a photo of a Chevrolet Impala Sedan 2007, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/187.jpeg,a photo of a shovel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/188.jpeg,"a photo of a Lamborghini Aventador Coupe 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/189.jpeg,a photo of a Entlebucher Sennenhund.
+./data/synthetic/synthetic_data_b/MNIST_Syn/190.jpeg,a photo of a dock.
+./data/synthetic/synthetic_data_b/MNIST_Syn/191.jpeg,a photo of a dishcloth.
+./data/synthetic/synthetic_data_b/MNIST_Syn/192.jpeg,a photo of a shipwreck.
+./data/synthetic/synthetic_data_b/MNIST_Syn/193.jpeg,a photo of a military hat (bearskin or shako).
+./data/synthetic/synthetic_data_b/MNIST_Syn/194.jpeg,"a photo of a hummus, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/195.jpeg,a photo of a hair clip.
+./data/synthetic/synthetic_data_b/MNIST_Syn/196.jpeg,"a photo of a Acura Integra Type R 2001, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/197.jpeg,a photo of a analog clock.
+./data/synthetic/synthetic_data_b/MNIST_Syn/198.jpeg,a photo of a Dalmatian.
+./data/synthetic/synthetic_data_b/MNIST_Syn/199.jpeg,a photo of a red fox.
+./data/synthetic/synthetic_data_b/MNIST_Syn/200.jpeg,a photo of a Chihuahua.
+./data/synthetic/synthetic_data_b/MNIST_Syn/201.jpeg,a photo of a consomme.
+./data/synthetic/synthetic_data_b/MNIST_Syn/202.jpeg,a photo of a gazelle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/203.jpeg,a photo of a wool.
+./data/synthetic/synthetic_data_b/MNIST_Syn/204.jpeg,a photo of a Staffordshire Bull Terrier.
+./data/synthetic/synthetic_data_b/MNIST_Syn/205.jpeg,a photo of a minibus.
+./data/synthetic/synthetic_data_b/MNIST_Syn/206.jpeg,a photo of a perfume.
+./data/synthetic/synthetic_data_b/MNIST_Syn/207.jpeg,a photo of a great egret.
+./data/synthetic/synthetic_data_b/MNIST_Syn/208.jpeg,"a photo of a Honda Odyssey Minivan 2007, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/209.jpeg,"a photo of a Ford Ranger SuperCab 2011, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/210.jpeg,a photo of a harp.
+./data/synthetic/synthetic_data_b/MNIST_Syn/211.jpeg,a photo of a kimono.
+./data/synthetic/synthetic_data_b/MNIST_Syn/212.jpeg,a photo of a ringlet butterfly.
+./data/synthetic/synthetic_data_b/MNIST_Syn/213.jpeg,a photo of a weasel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/214.jpeg,a photo of a power drill.
+./data/synthetic/synthetic_data_b/MNIST_Syn/215.jpeg,"a photo of a Bentley Continental GT Coupe 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/216.jpeg,a photo of a bra.
+./data/synthetic/synthetic_data_b/MNIST_Syn/217.jpeg,a photo of a husky.
+./data/synthetic/synthetic_data_b/MNIST_Syn/218.jpeg,a photo of a apron.
+./data/synthetic/synthetic_data_b/MNIST_Syn/219.jpeg,a photo of a Siamese cat.
+./data/synthetic/synthetic_data_b/MNIST_Syn/220.jpeg,a photo of a catamaran.
+./data/synthetic/synthetic_data_b/MNIST_Syn/221.jpeg,"a photo of a Audi RS 4 Convertible 2008, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/222.jpeg,a photo of a ring-necked snake.
+./data/synthetic/synthetic_data_b/MNIST_Syn/223.jpeg,a photo of a potter's wheel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/224.jpeg,"a photo of a Hyundai Elantra Sedan 2007, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/225.jpeg,"a photo of a Porsche Panamera Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/226.jpeg,a photo of a radio telescope.
+./data/synthetic/synthetic_data_b/MNIST_Syn/227.jpeg,a photo of a pomegranate.
+./data/synthetic/synthetic_data_b/MNIST_Syn/228.jpeg,"a photo of a Hyundai Veloster Hatchback 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/229.jpeg,a photo of a Toy Poodle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/230.jpeg,"a photo of a hummus, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/231.jpeg,a photo of a Saluki.
+./data/synthetic/synthetic_data_b/MNIST_Syn/232.jpeg,a photo of a crane bird.
+./data/synthetic/synthetic_data_b/MNIST_Syn/233.jpeg,a photo of a loupe magnifying glass.
+./data/synthetic/synthetic_data_b/MNIST_Syn/234.jpeg,a photo of a spider web.
+./data/synthetic/synthetic_data_b/MNIST_Syn/235.jpeg,a photo of a volcano.
+./data/synthetic/synthetic_data_b/MNIST_Syn/236.jpeg,"a photo of a Chrysler Sebring Convertible 2010, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/237.jpeg,a photo of a sweatshirt.
+./data/synthetic/synthetic_data_b/MNIST_Syn/238.jpeg,a photo of a sunscreen.
+./data/synthetic/synthetic_data_b/MNIST_Syn/239.jpeg,"a photo of a Scion xD Hatchback 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/240.jpeg,a photo of a Chihuahua.
+./data/synthetic/synthetic_data_b/MNIST_Syn/241.jpeg,a photo of a Newfoundland dog.
+./data/synthetic/synthetic_data_b/MNIST_Syn/242.jpeg,a photo of a megalith.
+./data/synthetic/synthetic_data_b/MNIST_Syn/243.jpeg,a photo of a Chihuahua.
+./data/synthetic/synthetic_data_b/MNIST_Syn/244.jpeg,a photo of a dust jacket.
+./data/synthetic/synthetic_data_b/MNIST_Syn/245.jpeg,a photo of a banana.
+./data/synthetic/synthetic_data_b/MNIST_Syn/246.jpeg,"a photo of a Chevrolet HHR SS 2010, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/247.jpeg,a photo of a railroad car.
+./data/synthetic/synthetic_data_b/MNIST_Syn/248.jpeg,a photo of a brussels griffon.
+./data/synthetic/synthetic_data_b/MNIST_Syn/249.jpeg,"a photo of a Hyundai Veloster Hatchback 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/250.jpeg,"a photo of a bibimbap, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/251.jpeg,a photo of a baboon.
+./data/synthetic/synthetic_data_b/MNIST_Syn/252.jpeg,a photo of a Cardigan Welsh Corgi.
+./data/synthetic/synthetic_data_b/MNIST_Syn/253.jpeg,a photo of a vending machine.
+./data/synthetic/synthetic_data_b/MNIST_Syn/254.jpeg,"a photo of a BMW 3 Series Wagon 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/255.jpeg,a photo of a snail.
+./data/synthetic/synthetic_data_b/MNIST_Syn/256.jpeg,a photo of a pug.
+./data/synthetic/synthetic_data_b/MNIST_Syn/257.jpeg,"a photo of a Chevrolet Tahoe Hybrid SUV 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/258.jpeg,a photo of a stick insect.
+./data/synthetic/synthetic_data_b/MNIST_Syn/259.jpeg,a photo of a lens cap.
+./data/synthetic/synthetic_data_b/MNIST_Syn/260.jpeg,a photo of a beaver.
+./data/synthetic/synthetic_data_b/MNIST_Syn/261.jpeg,a photo of a hare.
+./data/synthetic/synthetic_data_b/MNIST_Syn/262.jpeg,a photo of a mobile home.
+./data/synthetic/synthetic_data_b/MNIST_Syn/263.jpeg,a photo of a breastplate.
+./data/synthetic/synthetic_data_b/MNIST_Syn/264.jpeg,a photo of a pedestal.
+./data/synthetic/synthetic_data_b/MNIST_Syn/265.jpeg,"a photo of a Chevrolet Sonic Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/266.jpeg,a photo of a radiator grille.
+./data/synthetic/synthetic_data_b/MNIST_Syn/267.jpeg,a photo of a Basset Hound.
+./data/synthetic/synthetic_data_b/MNIST_Syn/268.jpeg,a photo of a cornet.
+./data/synthetic/synthetic_data_b/MNIST_Syn/269.jpeg,a photo of a acoustic guitar.
+./data/synthetic/synthetic_data_b/MNIST_Syn/270.jpeg,"a photo of a Honda Accord Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/271.jpeg,a photo of a fountain.
+./data/synthetic/synthetic_data_b/MNIST_Syn/272.jpeg,a photo of a Newfoundland dog.
+./data/synthetic/synthetic_data_b/MNIST_Syn/273.jpeg,"a photo of a risotto, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/274.jpeg,a photo of a laptop computer.
+./data/synthetic/synthetic_data_b/MNIST_Syn/275.jpeg,"a photo of a macaroni and cheese, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/276.jpeg,"a photo of a Dodge Challenger SRT8 2011, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/277.jpeg,a photo of a Airedale Terrier.
+./data/synthetic/synthetic_data_b/MNIST_Syn/278.jpeg,"a photo of a BMW 3 Series Wagon 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/279.jpeg,a photo of a ox.
+./data/synthetic/synthetic_data_b/MNIST_Syn/280.jpeg,"a photo of a cheese plate, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/281.jpeg,"a photo of a Volkswagen Golf Hatchback 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/282.jpeg,a photo of a praying mantis.
+./data/synthetic/synthetic_data_b/MNIST_Syn/283.jpeg,a photo of a Alpine ibex.
+./data/synthetic/synthetic_data_b/MNIST_Syn/284.jpeg,"a photo of a ravioli, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/285.jpeg,"a photo of a fried calamari, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/286.jpeg,a photo of a oxygen mask.
+./data/synthetic/synthetic_data_b/MNIST_Syn/287.jpeg,"a photo of a Land Rover LR2 SUV 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/288.jpeg,a photo of a peafowl.
+./data/synthetic/synthetic_data_b/MNIST_Syn/289.jpeg,a photo of a water snake.
+./data/synthetic/synthetic_data_b/MNIST_Syn/290.jpeg,a photo of a Treeing Walker Coonhound.
+./data/synthetic/synthetic_data_b/MNIST_Syn/291.jpeg,a photo of a hornbill.
+./data/synthetic/synthetic_data_b/MNIST_Syn/292.jpeg,"a photo of a Suzuki Kizashi Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/293.jpeg,a photo of a drumstick.
+./data/synthetic/synthetic_data_b/MNIST_Syn/294.jpeg,a photo of a bassinet.
+./data/synthetic/synthetic_data_b/MNIST_Syn/295.jpeg,"a photo of a Plymouth Neon Coupe 1999, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/296.jpeg,a photo of a thatched roof.
+./data/synthetic/synthetic_data_b/MNIST_Syn/297.jpeg,"a photo of a oysters, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/298.jpeg,a photo of a African rock python.
+./data/synthetic/synthetic_data_b/MNIST_Syn/299.jpeg,"a photo of a Audi S6 Sedan 2011, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/300.jpeg,"a photo of a seaweed salad, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/301.jpeg,"a photo of a GMC Terrain SUV 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/302.jpeg,a photo of a harmonica.
+./data/synthetic/synthetic_data_b/MNIST_Syn/303.jpeg,a photo of a ladle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/304.jpeg,a photo of a rose hip.
+./data/synthetic/synthetic_data_b/MNIST_Syn/305.jpeg,a photo of a cloak.
+./data/synthetic/synthetic_data_b/MNIST_Syn/306.jpeg,a photo of a couch.
+./data/synthetic/synthetic_data_b/MNIST_Syn/307.jpeg,a photo of a jeep.
+./data/synthetic/synthetic_data_b/MNIST_Syn/308.jpeg,a photo of a ice cream.
+./data/synthetic/synthetic_data_b/MNIST_Syn/309.jpeg,a photo of a dugong.
+./data/synthetic/synthetic_data_b/MNIST_Syn/310.jpeg,a photo of a American lobster.
+./data/synthetic/synthetic_data_b/MNIST_Syn/311.jpeg,a photo of a monarch butterfly.
+./data/synthetic/synthetic_data_b/MNIST_Syn/312.jpeg,a photo of a water tower.
+./data/synthetic/synthetic_data_b/MNIST_Syn/313.jpeg,a photo of a television.
+./data/synthetic/synthetic_data_b/MNIST_Syn/314.jpeg,a photo of a coral fungus.
+./data/synthetic/synthetic_data_b/MNIST_Syn/315.jpeg,a photo of a lemon.
+./data/synthetic/synthetic_data_b/MNIST_Syn/316.jpeg,a photo of a balloon.
+./data/synthetic/synthetic_data_b/MNIST_Syn/317.jpeg,a photo of a paintbrush.
+./data/synthetic/synthetic_data_b/MNIST_Syn/318.jpeg,"a photo of a garlic bread, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/319.jpeg,a photo of a brown bear.
+./data/synthetic/synthetic_data_b/MNIST_Syn/320.jpeg,a photo of a manhole cover.
+./data/synthetic/synthetic_data_b/MNIST_Syn/321.jpeg,a photo of a milk can.
+./data/synthetic/synthetic_data_b/MNIST_Syn/322.jpeg,a photo of a payphone.
+./data/synthetic/synthetic_data_b/MNIST_Syn/323.jpeg,a photo of a spindle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/324.jpeg,a photo of a Standard Poodle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/325.jpeg,a photo of a fishing casting reel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/326.jpeg,"a photo of a Chevrolet Corvette Convertible 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/327.jpeg,"a photo of a Lamborghini Aventador Coupe 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/328.jpeg,a photo of a English Springer Spaniel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/329.jpeg,a photo of a milk can.
+./data/synthetic/synthetic_data_b/MNIST_Syn/330.jpeg,a photo of a china cabinet.
+./data/synthetic/synthetic_data_b/MNIST_Syn/331.jpeg,a photo of a jackfruit.
+./data/synthetic/synthetic_data_b/MNIST_Syn/332.jpeg,a photo of a Siberian Husky.
+./data/synthetic/synthetic_data_b/MNIST_Syn/333.jpeg,a photo of a electric locomotive.
+./data/synthetic/synthetic_data_b/MNIST_Syn/334.jpeg,a photo of a traffic light.
+./data/synthetic/synthetic_data_b/MNIST_Syn/335.jpeg,a photo of a combination lock.
+./data/synthetic/synthetic_data_b/MNIST_Syn/336.jpeg,a photo of a leopard.
+./data/synthetic/synthetic_data_b/MNIST_Syn/337.jpeg,a photo of a Standard Schnauzer.
+./data/synthetic/synthetic_data_b/MNIST_Syn/338.jpeg,a photo of a platypus.
+./data/synthetic/synthetic_data_b/MNIST_Syn/339.jpeg,a photo of a harp.
+./data/synthetic/synthetic_data_b/MNIST_Syn/340.jpeg,a photo of a sewing machine.
+./data/synthetic/synthetic_data_b/MNIST_Syn/341.jpeg,"a photo of a miso soup, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/342.jpeg,a photo of a threshing machine.
+./data/synthetic/synthetic_data_b/MNIST_Syn/343.jpeg,a photo of a computer keyboard.
+./data/synthetic/synthetic_data_b/MNIST_Syn/344.jpeg,a photo of a starfish.
+./data/synthetic/synthetic_data_b/MNIST_Syn/345.jpeg,a photo of a vespa.
+./data/synthetic/synthetic_data_b/MNIST_Syn/346.jpeg,"a photo of a Suzuki SX4 Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/347.jpeg,a photo of a manhole cover.
+./data/synthetic/synthetic_data_b/MNIST_Syn/348.jpeg,a photo of a giant panda.
+./data/synthetic/synthetic_data_b/MNIST_Syn/349.jpeg,a photo of a gossamer-winged butterfly.
+./data/synthetic/synthetic_data_b/MNIST_Syn/350.jpeg,"a photo of a Audi S5 Convertible 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/351.jpeg,"a photo of a Chevrolet Corvette Convertible 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/352.jpeg,a photo of a cherimoya (custard apple).
+./data/synthetic/synthetic_data_b/MNIST_Syn/353.jpeg,"a photo of a Audi S5 Coupe 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/354.jpeg,a photo of a lotion.
+./data/synthetic/synthetic_data_b/MNIST_Syn/355.jpeg,"a photo of a Audi TT Hatchback 2011, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/356.jpeg,a photo of a chameleon.
+./data/synthetic/synthetic_data_b/MNIST_Syn/357.jpeg,a photo of a Irish Terrier.
+./data/synthetic/synthetic_data_b/MNIST_Syn/358.jpeg,a photo of a soccer ball.
+./data/synthetic/synthetic_data_b/MNIST_Syn/359.jpeg,"a photo of a BMW M6 Convertible 2010, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/360.jpeg,a photo of a cabbage.
+./data/synthetic/synthetic_data_b/MNIST_Syn/361.jpeg,a photo of a chiffonier.
+./data/synthetic/synthetic_data_b/MNIST_Syn/362.jpeg,a photo of a beer bottle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/363.jpeg,"a photo of a Volvo XC90 SUV 2007, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/364.jpeg,a photo of a ping-pong ball.
+./data/synthetic/synthetic_data_b/MNIST_Syn/365.jpeg,a photo of a goose.
+./data/synthetic/synthetic_data_b/MNIST_Syn/366.jpeg,a photo of a platypus.
+./data/synthetic/synthetic_data_b/MNIST_Syn/367.jpeg,a photo of a gondola.
+./data/synthetic/synthetic_data_b/MNIST_Syn/368.jpeg,"a photo of a Audi TTS Coupe 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/369.jpeg,"a photo of a creme brulee, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/370.jpeg,a photo of a pizza.
+./data/synthetic/synthetic_data_b/MNIST_Syn/371.jpeg,a photo of a hair spray.
+./data/synthetic/synthetic_data_b/MNIST_Syn/372.jpeg,"a photo of a FIAT 500 Convertible 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/373.jpeg,a photo of a bulbul.
+./data/synthetic/synthetic_data_b/MNIST_Syn/374.jpeg,a photo of a Sussex Spaniel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/375.jpeg,a photo of a vacuum cleaner.
+./data/synthetic/synthetic_data_b/MNIST_Syn/376.jpeg,a photo of a dhole.
+./data/synthetic/synthetic_data_b/MNIST_Syn/377.jpeg,a photo of a drum.
+./data/synthetic/synthetic_data_b/MNIST_Syn/378.jpeg,a photo of a quill.
+./data/synthetic/synthetic_data_b/MNIST_Syn/379.jpeg,a photo of a stone wall.
+./data/synthetic/synthetic_data_b/MNIST_Syn/380.jpeg,a photo of a quill.
+./data/synthetic/synthetic_data_b/MNIST_Syn/381.jpeg,a photo of a bee eater.
+./data/synthetic/synthetic_data_b/MNIST_Syn/382.jpeg,a photo of a steam locomotive.
+./data/synthetic/synthetic_data_b/MNIST_Syn/383.jpeg,a photo of a wallaby.
+./data/synthetic/synthetic_data_b/MNIST_Syn/384.jpeg,"a photo of a Nissan Leaf Hatchback 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/385.jpeg,"a photo of a Lamborghini Aventador Coupe 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/386.jpeg,a photo of a abacus.
+./data/synthetic/synthetic_data_b/MNIST_Syn/387.jpeg,a photo of a printer.
+./data/synthetic/synthetic_data_b/MNIST_Syn/388.jpeg,"a photo of a Hyundai Sonata Hybrid Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/389.jpeg,a photo of a handkerchief.
+./data/synthetic/synthetic_data_b/MNIST_Syn/390.jpeg,a photo of a sea lion.
+./data/synthetic/synthetic_data_b/MNIST_Syn/391.jpeg,a photo of a shopping cart.
+./data/synthetic/synthetic_data_b/MNIST_Syn/392.jpeg,"a photo of a BMW X6 SUV 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/393.jpeg,a photo of a menu.
+./data/synthetic/synthetic_data_b/MNIST_Syn/394.jpeg,"a photo of a Honda Odyssey Minivan 2007, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/395.jpeg,a photo of a goblet.
+./data/synthetic/synthetic_data_b/MNIST_Syn/396.jpeg,"a photo of a pulled pork sandwich, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/397.jpeg,"a photo of a hot dog, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/398.jpeg,a photo of a Bullmastiff.
+./data/synthetic/synthetic_data_b/MNIST_Syn/399.jpeg,a photo of a Pembroke Welsh Corgi.
+./data/synthetic/synthetic_data_b/MNIST_Syn/400.jpeg,a photo of a Standard Schnauzer.
+./data/synthetic/synthetic_data_b/MNIST_Syn/401.jpeg,a photo of a sock.
+./data/synthetic/synthetic_data_b/MNIST_Syn/402.jpeg,a photo of a rifle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/403.jpeg,a photo of a paddle wheel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/404.jpeg,"a photo of a Isuzu Ascender SUV 2008, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/405.jpeg,a photo of a purse.
+./data/synthetic/synthetic_data_b/MNIST_Syn/406.jpeg,a photo of a American black bear.
+./data/synthetic/synthetic_data_b/MNIST_Syn/407.jpeg,a photo of a ambulance.
+./data/synthetic/synthetic_data_b/MNIST_Syn/408.jpeg,"a photo of a filet mignon, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/409.jpeg,"a photo of a Bentley Continental GT Coupe 2007, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/410.jpeg,a photo of a steel drum.
+./data/synthetic/synthetic_data_b/MNIST_Syn/411.jpeg,"a photo of a Audi TT RS Coupe 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/412.jpeg,a photo of a ruffed grouse.
+./data/synthetic/synthetic_data_b/MNIST_Syn/413.jpeg,a photo of a bee eater.
+./data/synthetic/synthetic_data_b/MNIST_Syn/414.jpeg,a photo of a centipede.
+./data/synthetic/synthetic_data_b/MNIST_Syn/415.jpeg,a photo of a grey fox.
+./data/synthetic/synthetic_data_b/MNIST_Syn/416.jpeg,a photo of a obelisk.
+./data/synthetic/synthetic_data_b/MNIST_Syn/417.jpeg,a photo of a mountain.
+./data/synthetic/synthetic_data_b/MNIST_Syn/418.jpeg,"a photo of a Chevrolet Express Cargo Van 2007, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/419.jpeg,a photo of a mashed potatoes.
+./data/synthetic/synthetic_data_b/MNIST_Syn/420.jpeg,a photo of a dung beetle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/421.jpeg,"a photo of a frozen yogurt, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/422.jpeg,"a photo of a Chevrolet Corvette ZR1 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/423.jpeg,a photo of a cougar.
+./data/synthetic/synthetic_data_b/MNIST_Syn/424.jpeg,a photo of a mountain bike.
+./data/synthetic/synthetic_data_b/MNIST_Syn/425.jpeg,"a photo of a lasagna, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/426.jpeg,a photo of a military uniform.
+./data/synthetic/synthetic_data_b/MNIST_Syn/427.jpeg,a photo of a Angora rabbit.
+./data/synthetic/synthetic_data_b/MNIST_Syn/428.jpeg,a photo of a soap dispenser.
+./data/synthetic/synthetic_data_b/MNIST_Syn/429.jpeg,"a photo of a nachos, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/430.jpeg,a photo of a rickshaw.
+./data/synthetic/synthetic_data_b/MNIST_Syn/431.jpeg,"a photo of a chicken quesadilla, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/432.jpeg,a photo of a oscilloscope.
+./data/synthetic/synthetic_data_b/MNIST_Syn/433.jpeg,"a photo of a Bentley Continental Supersports Conv. Convertible 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/434.jpeg,"a photo of a Bentley Continental Flying Spur Sedan 2007, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/435.jpeg,"a photo of a Dodge Dakota Club Cab 2007, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/436.jpeg,"a photo of a Acura TL Type-S 2008, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/437.jpeg,"a photo of a Lamborghini Diablo Coupe 2001, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/438.jpeg,a photo of a joystick.
+./data/synthetic/synthetic_data_b/MNIST_Syn/439.jpeg,a photo of a cliff.
+./data/synthetic/synthetic_data_b/MNIST_Syn/440.jpeg,a photo of a leatherback sea turtle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/441.jpeg,a photo of a radio.
+./data/synthetic/synthetic_data_b/MNIST_Syn/442.jpeg,a photo of a neck brace.
+./data/synthetic/synthetic_data_b/MNIST_Syn/443.jpeg,a photo of a Groenendael dog.
+./data/synthetic/synthetic_data_b/MNIST_Syn/444.jpeg,a photo of a thatched roof.
+./data/synthetic/synthetic_data_b/MNIST_Syn/445.jpeg,"a photo of a smart fortwo Convertible 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/446.jpeg,a photo of a slip-on shoe.
+./data/synthetic/synthetic_data_b/MNIST_Syn/447.jpeg,"a photo of a spring rolls, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/448.jpeg,a photo of a eastern hog-nosed snake.
+./data/synthetic/synthetic_data_b/MNIST_Syn/449.jpeg,"a photo of a crab cakes, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/450.jpeg,a photo of a bubble.
+./data/synthetic/synthetic_data_b/MNIST_Syn/451.jpeg,a photo of a dumbbell.
+./data/synthetic/synthetic_data_b/MNIST_Syn/452.jpeg,"a photo of a Tesla Model S Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/453.jpeg,"a photo of a Suzuki SX4 Hatchback 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/454.jpeg,a photo of a high-speed train.
+./data/synthetic/synthetic_data_b/MNIST_Syn/455.jpeg,a photo of a koala.
+./data/synthetic/synthetic_data_b/MNIST_Syn/456.jpeg,"a photo of a smart fortwo Convertible 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/457.jpeg,a photo of a scuba diver.
+./data/synthetic/synthetic_data_b/MNIST_Syn/458.jpeg,a photo of a bighorn sheep.
+./data/synthetic/synthetic_data_b/MNIST_Syn/459.jpeg,"a photo of a Chevrolet Silverado 1500 Extended Cab 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/460.jpeg,"a photo of a spring rolls, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/461.jpeg,"a photo of a panna cotta, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/462.jpeg,a photo of a weighing scale.
+./data/synthetic/synthetic_data_b/MNIST_Syn/463.jpeg,a photo of a ground beetle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/464.jpeg,a photo of a Christmas stocking.
+./data/synthetic/synthetic_data_b/MNIST_Syn/465.jpeg,a photo of a green mamba.
+./data/synthetic/synthetic_data_b/MNIST_Syn/466.jpeg,"a photo of a Porsche Panamera Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/467.jpeg,a photo of a Malinois.
+./data/synthetic/synthetic_data_b/MNIST_Syn/468.jpeg,a photo of a eel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/469.jpeg,a photo of a banded gecko.
+./data/synthetic/synthetic_data_b/MNIST_Syn/470.jpeg,a photo of a hair wig.
+./data/synthetic/synthetic_data_b/MNIST_Syn/471.jpeg,a photo of a marimba.
+./data/synthetic/synthetic_data_b/MNIST_Syn/472.jpeg,a photo of a throne.
+./data/synthetic/synthetic_data_b/MNIST_Syn/473.jpeg,a photo of a ant.
+./data/synthetic/synthetic_data_b/MNIST_Syn/474.jpeg,a photo of a syringe.
+./data/synthetic/synthetic_data_b/MNIST_Syn/475.jpeg,a photo of a balloon.
+./data/synthetic/synthetic_data_b/MNIST_Syn/476.jpeg,a photo of a mop.
+./data/synthetic/synthetic_data_b/MNIST_Syn/477.jpeg,"a photo of a BMW 1 Series Coupe 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/478.jpeg,"a photo of a huevos rancheros, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/479.jpeg,a photo of a burrito.
+./data/synthetic/synthetic_data_b/MNIST_Syn/480.jpeg,a photo of a white stork.
+./data/synthetic/synthetic_data_b/MNIST_Syn/481.jpeg,a photo of a tiger cat.
+./data/synthetic/synthetic_data_b/MNIST_Syn/482.jpeg,"a photo of a Chevrolet Sonic Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/483.jpeg,a photo of a barbershop.
+./data/synthetic/synthetic_data_b/MNIST_Syn/484.jpeg,"a photo of a Jeep Compass SUV 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/485.jpeg,a photo of a moped.
+./data/synthetic/synthetic_data_b/MNIST_Syn/486.jpeg,a photo of a valley.
+./data/synthetic/synthetic_data_b/MNIST_Syn/487.jpeg,"a photo of a Chrysler Sebring Convertible 2010, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/488.jpeg,a photo of a safe.
+./data/synthetic/synthetic_data_b/MNIST_Syn/489.jpeg,a photo of a marimba.
+./data/synthetic/synthetic_data_b/MNIST_Syn/490.jpeg,a photo of a arabian camel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/491.jpeg,a photo of a acorn squash.
+./data/synthetic/synthetic_data_b/MNIST_Syn/492.jpeg,"a photo of a Dodge Magnum Wagon 2008, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/493.jpeg,a photo of a parachute.
+./data/synthetic/synthetic_data_b/MNIST_Syn/494.jpeg,"a photo of a GMC Savana Van 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/495.jpeg,a photo of a drink pitcher.
+./data/synthetic/synthetic_data_b/MNIST_Syn/496.jpeg,a photo of a drum.
+./data/synthetic/synthetic_data_b/MNIST_Syn/497.jpeg,"a photo of a hamburger, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/498.jpeg,a photo of a coral fungus.
+./data/synthetic/synthetic_data_b/MNIST_Syn/499.jpeg,a photo of a clownfish.
+./data/synthetic/synthetic_data_b/MNIST_Syn/500.jpeg,a photo of a coffee mug.
+./data/synthetic/synthetic_data_b/MNIST_Syn/501.jpeg,a photo of a gas pump.
+./data/synthetic/synthetic_data_b/MNIST_Syn/502.jpeg,"a photo of a Isuzu Ascender SUV 2008, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/503.jpeg,a photo of a jigsaw puzzle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/504.jpeg,a photo of a breakwater.
+./data/synthetic/synthetic_data_b/MNIST_Syn/505.jpeg,a photo of a jeep.
+./data/synthetic/synthetic_data_b/MNIST_Syn/506.jpeg,a photo of a handkerchief.
+./data/synthetic/synthetic_data_b/MNIST_Syn/507.jpeg,a photo of a barbershop.
+./data/synthetic/synthetic_data_b/MNIST_Syn/508.jpeg,"a photo of a Acura RL Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/509.jpeg,a photo of a megalith.
+./data/synthetic/synthetic_data_b/MNIST_Syn/510.jpeg,a photo of a bridegroom.
+./data/synthetic/synthetic_data_b/MNIST_Syn/511.jpeg,a photo of a plectrum.
+./data/synthetic/synthetic_data_b/MNIST_Syn/512.jpeg,"a photo of a Jeep Grand Cherokee SUV 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/513.jpeg,a photo of a football helmet.
+./data/synthetic/synthetic_data_b/MNIST_Syn/514.jpeg,a photo of a hair dryer.
+./data/synthetic/synthetic_data_b/MNIST_Syn/515.jpeg,a photo of a Alaskan Malamute.
+./data/synthetic/synthetic_data_b/MNIST_Syn/516.jpeg,"a photo of a Rolls-Royce Phantom Drophead Coupe Convertible 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/517.jpeg,"a photo of a Ford F-150 Regular Cab 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/518.jpeg,a photo of a scabbard.
+./data/synthetic/synthetic_data_b/MNIST_Syn/519.jpeg,a photo of a sombrero.
+./data/synthetic/synthetic_data_b/MNIST_Syn/520.jpeg,a photo of a patio.
+./data/synthetic/synthetic_data_b/MNIST_Syn/521.jpeg,a photo of a meerkat.
+./data/synthetic/synthetic_data_b/MNIST_Syn/522.jpeg,a photo of a harp.
+./data/synthetic/synthetic_data_b/MNIST_Syn/523.jpeg,a photo of a partridge.
+./data/synthetic/synthetic_data_b/MNIST_Syn/524.jpeg,a photo of a hair dryer.
+./data/synthetic/synthetic_data_b/MNIST_Syn/525.jpeg,a photo of a Basset Hound.
+./data/synthetic/synthetic_data_b/MNIST_Syn/526.jpeg,a photo of a pencil case.
+./data/synthetic/synthetic_data_b/MNIST_Syn/527.jpeg,a photo of a window shade.
+./data/synthetic/synthetic_data_b/MNIST_Syn/528.jpeg,a photo of a dam.
+./data/synthetic/synthetic_data_b/MNIST_Syn/529.jpeg,a photo of a baseball player.
+./data/synthetic/synthetic_data_b/MNIST_Syn/530.jpeg,a photo of a beaker.
+./data/synthetic/synthetic_data_b/MNIST_Syn/531.jpeg,a photo of a assault rifle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/532.jpeg,"a photo of a Ferrari 458 Italia Coupe 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/533.jpeg,a photo of a fire truck.
+./data/synthetic/synthetic_data_b/MNIST_Syn/534.jpeg,"a photo of a Lamborghini Gallardo LP 570-4 Superleggera 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/535.jpeg,a photo of a fire screen.
+./data/synthetic/synthetic_data_b/MNIST_Syn/536.jpeg,a photo of a tabby cat.
+./data/synthetic/synthetic_data_b/MNIST_Syn/537.jpeg,a photo of a Schipperke.
+./data/synthetic/synthetic_data_b/MNIST_Syn/538.jpeg,"a photo of a miso soup, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/539.jpeg,"a photo of a beet salad, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/540.jpeg,a photo of a chain mail.
+./data/synthetic/synthetic_data_b/MNIST_Syn/541.jpeg,a photo of a Christmas stocking.
+./data/synthetic/synthetic_data_b/MNIST_Syn/542.jpeg,a photo of a platypus.
+./data/synthetic/synthetic_data_b/MNIST_Syn/543.jpeg,"a photo of a Dodge Sprinter Cargo Van 2009, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/544.jpeg,a photo of a broom.
+./data/synthetic/synthetic_data_b/MNIST_Syn/545.jpeg,a photo of a carousel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/546.jpeg,a photo of a jellyfish.
+./data/synthetic/synthetic_data_b/MNIST_Syn/547.jpeg,a photo of a Flat-Coated Retriever.
+./data/synthetic/synthetic_data_b/MNIST_Syn/548.jpeg,a photo of a table lamp.
+./data/synthetic/synthetic_data_b/MNIST_Syn/549.jpeg,a photo of a muzzle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/550.jpeg,a photo of a espresso.
+./data/synthetic/synthetic_data_b/MNIST_Syn/551.jpeg,a photo of a Flat-Coated Retriever.
+./data/synthetic/synthetic_data_b/MNIST_Syn/552.jpeg,a photo of a tabby cat.
+./data/synthetic/synthetic_data_b/MNIST_Syn/553.jpeg,a photo of a brambling.
+./data/synthetic/synthetic_data_b/MNIST_Syn/554.jpeg,"a photo of a Honda Accord Coupe 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/555.jpeg,a photo of a monarch butterfly.
+./data/synthetic/synthetic_data_b/MNIST_Syn/556.jpeg,a photo of a submarine.
+./data/synthetic/synthetic_data_b/MNIST_Syn/557.jpeg,a photo of a geyser.
+./data/synthetic/synthetic_data_b/MNIST_Syn/558.jpeg,a photo of a sandbar.
+./data/synthetic/synthetic_data_b/MNIST_Syn/559.jpeg,a photo of a amphibious vehicle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/560.jpeg,a photo of a hamper.
+./data/synthetic/synthetic_data_b/MNIST_Syn/561.jpeg,a photo of a missile.
+./data/synthetic/synthetic_data_b/MNIST_Syn/562.jpeg,a photo of a hair clip.
+./data/synthetic/synthetic_data_b/MNIST_Syn/563.jpeg,a photo of a red king crab.
+./data/synthetic/synthetic_data_b/MNIST_Syn/564.jpeg,a photo of a Kerry Blue Terrier.
+./data/synthetic/synthetic_data_b/MNIST_Syn/565.jpeg,"a photo of a Rolls-Royce Ghost Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/566.jpeg,a photo of a car mirror.
+./data/synthetic/synthetic_data_b/MNIST_Syn/567.jpeg,"a photo of a Dodge Charger Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/568.jpeg,a photo of a tarantula.
+./data/synthetic/synthetic_data_b/MNIST_Syn/569.jpeg,a photo of a European polecat.
+./data/synthetic/synthetic_data_b/MNIST_Syn/570.jpeg,a photo of a thimble.
+./data/synthetic/synthetic_data_b/MNIST_Syn/571.jpeg,a photo of a otter.
+./data/synthetic/synthetic_data_b/MNIST_Syn/572.jpeg,a photo of a European garden spider.
+./data/synthetic/synthetic_data_b/MNIST_Syn/573.jpeg,a photo of a spatula.
+./data/synthetic/synthetic_data_b/MNIST_Syn/574.jpeg,"a photo of a Audi R8 Coupe 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/575.jpeg,a photo of a Geoffroy's spider monkey.
+./data/synthetic/synthetic_data_b/MNIST_Syn/576.jpeg,a photo of a hard disk drive.
+./data/synthetic/synthetic_data_b/MNIST_Syn/577.jpeg,a photo of a tarantula.
+./data/synthetic/synthetic_data_b/MNIST_Syn/578.jpeg,a photo of a magpie.
+./data/synthetic/synthetic_data_b/MNIST_Syn/579.jpeg,a photo of a jigsaw puzzle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/580.jpeg,"a photo of a Mercedes-Benz E-Class Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/581.jpeg,"a photo of a fish and chips, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/582.jpeg,a photo of a Cocker Spaniel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/583.jpeg,a photo of a oil filter.
+./data/synthetic/synthetic_data_b/MNIST_Syn/584.jpeg,a photo of a grocery store.
+./data/synthetic/synthetic_data_b/MNIST_Syn/585.jpeg,a photo of a baguette.
+./data/synthetic/synthetic_data_b/MNIST_Syn/586.jpeg,"a photo of a Ford F-150 Regular Cab 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/587.jpeg,"a photo of a Chevrolet Silverado 1500 Extended Cab 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/588.jpeg,"a photo of a Audi RS 4 Convertible 2008, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/589.jpeg,a photo of a dhole.
+./data/synthetic/synthetic_data_b/MNIST_Syn/590.jpeg,"a photo of a BMW X6 SUV 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/591.jpeg,a photo of a hay.
+./data/synthetic/synthetic_data_b/MNIST_Syn/592.jpeg,a photo of a flute.
+./data/synthetic/synthetic_data_b/MNIST_Syn/593.jpeg,a photo of a sturgeon.
+./data/synthetic/synthetic_data_b/MNIST_Syn/594.jpeg,a photo of a Shetland Sheepdog.
+./data/synthetic/synthetic_data_b/MNIST_Syn/595.jpeg,a photo of a metal nail.
+./data/synthetic/synthetic_data_b/MNIST_Syn/596.jpeg,a photo of a Angora rabbit.
+./data/synthetic/synthetic_data_b/MNIST_Syn/597.jpeg,a photo of a zucchini.
+./data/synthetic/synthetic_data_b/MNIST_Syn/598.jpeg,a photo of a desk.
+./data/synthetic/synthetic_data_b/MNIST_Syn/599.jpeg,a photo of a Geoffroy's spider monkey.
+./data/synthetic/synthetic_data_b/MNIST_Syn/600.jpeg,a photo of a spotted salamander.
+./data/synthetic/synthetic_data_b/MNIST_Syn/601.jpeg,a photo of a bullock cart.
+./data/synthetic/synthetic_data_b/MNIST_Syn/602.jpeg,a photo of a hourglass.
+./data/synthetic/synthetic_data_b/MNIST_Syn/603.jpeg,"a photo of a Mercedes-Benz SL-Class Coupe 2009, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/604.jpeg,a photo of a gar fish.
+./data/synthetic/synthetic_data_b/MNIST_Syn/605.jpeg,a photo of a black-footed ferret.
+./data/synthetic/synthetic_data_b/MNIST_Syn/606.jpeg,"a photo of a hot dog, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/607.jpeg,a photo of a stretcher.
+./data/synthetic/synthetic_data_b/MNIST_Syn/608.jpeg,a photo of a trombone.
+./data/synthetic/synthetic_data_b/MNIST_Syn/609.jpeg,"a photo of a Chevrolet Corvette ZR1 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/610.jpeg,a photo of a mountain bike.
+./data/synthetic/synthetic_data_b/MNIST_Syn/611.jpeg,a photo of a Scottish Deerhound.
+./data/synthetic/synthetic_data_b/MNIST_Syn/612.jpeg,a photo of a steam locomotive.
+./data/synthetic/synthetic_data_b/MNIST_Syn/613.jpeg,a photo of a Boston Terrier.
+./data/synthetic/synthetic_data_b/MNIST_Syn/614.jpeg,a photo of a white-headed capuchin.
+./data/synthetic/synthetic_data_b/MNIST_Syn/615.jpeg,a photo of a lynx.
+./data/synthetic/synthetic_data_b/MNIST_Syn/616.jpeg,a photo of a sandbar.
+./data/synthetic/synthetic_data_b/MNIST_Syn/617.jpeg,a photo of a modem.
+./data/synthetic/synthetic_data_b/MNIST_Syn/618.jpeg,a photo of a computer keyboard.
+./data/synthetic/synthetic_data_b/MNIST_Syn/619.jpeg,a photo of a junco.
+./data/synthetic/synthetic_data_b/MNIST_Syn/620.jpeg,a photo of a dishwasher.
+./data/synthetic/synthetic_data_b/MNIST_Syn/621.jpeg,a photo of a seat belt.
+./data/synthetic/synthetic_data_b/MNIST_Syn/622.jpeg,a photo of a cassette player.
+./data/synthetic/synthetic_data_b/MNIST_Syn/623.jpeg,a photo of a sailboat.
+./data/synthetic/synthetic_data_b/MNIST_Syn/624.jpeg,a photo of a electric guitar.
+./data/synthetic/synthetic_data_b/MNIST_Syn/625.jpeg,a photo of a moving van.
+./data/synthetic/synthetic_data_b/MNIST_Syn/626.jpeg,a photo of a ladle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/627.jpeg,"a photo of a Volvo C30 Hatchback 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/628.jpeg,"a photo of a Ram C/V Cargo Van Minivan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/629.jpeg,a photo of a vulture.
+./data/synthetic/synthetic_data_b/MNIST_Syn/630.jpeg,a photo of a disc brake.
+./data/synthetic/synthetic_data_b/MNIST_Syn/631.jpeg,a photo of a pool table.
+./data/synthetic/synthetic_data_b/MNIST_Syn/632.jpeg,a photo of a castle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/633.jpeg,a photo of a white stork.
+./data/synthetic/synthetic_data_b/MNIST_Syn/634.jpeg,a photo of a Boxer.
+./data/synthetic/synthetic_data_b/MNIST_Syn/635.jpeg,a photo of a pineapple.
+./data/synthetic/synthetic_data_b/MNIST_Syn/636.jpeg,a photo of a ocean liner.
+./data/synthetic/synthetic_data_b/MNIST_Syn/637.jpeg,a photo of a starfish.
+./data/synthetic/synthetic_data_b/MNIST_Syn/638.jpeg,a photo of a stretcher.
+./data/synthetic/synthetic_data_b/MNIST_Syn/639.jpeg,"a photo of a BMW 3 Series Wagon 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/640.jpeg,a photo of a messenger bag.
+./data/synthetic/synthetic_data_b/MNIST_Syn/641.jpeg,a photo of a Appenzeller Sennenhund.
+./data/synthetic/synthetic_data_b/MNIST_Syn/642.jpeg,a photo of a hourglass.
+./data/synthetic/synthetic_data_b/MNIST_Syn/643.jpeg,a photo of a racket.
+./data/synthetic/synthetic_data_b/MNIST_Syn/644.jpeg,"a photo of a macaroni and cheese, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/645.jpeg,a photo of a poke bonnet.
+./data/synthetic/synthetic_data_b/MNIST_Syn/646.jpeg,a photo of a birdhouse.
+./data/synthetic/synthetic_data_b/MNIST_Syn/647.jpeg,a photo of a dingo.
+./data/synthetic/synthetic_data_b/MNIST_Syn/648.jpeg,a photo of a valley.
+./data/synthetic/synthetic_data_b/MNIST_Syn/649.jpeg,a photo of a stick insect.
+./data/synthetic/synthetic_data_b/MNIST_Syn/650.jpeg,a photo of a bagel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/651.jpeg,"a photo of a fried rice, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/652.jpeg,a photo of a rocking chair.
+./data/synthetic/synthetic_data_b/MNIST_Syn/653.jpeg,a photo of a television.
+./data/synthetic/synthetic_data_b/MNIST_Syn/654.jpeg,"a photo of a HUMMER H2 SUT Crew Cab 2009, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/655.jpeg,a photo of a pot pie.
+./data/synthetic/synthetic_data_b/MNIST_Syn/656.jpeg,"a photo of a Ferrari FF Coupe 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/657.jpeg,a photo of a binoculars.
+./data/synthetic/synthetic_data_b/MNIST_Syn/658.jpeg,a photo of a spiral or coil.
+./data/synthetic/synthetic_data_b/MNIST_Syn/659.jpeg,"a photo of a clam chowder, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/660.jpeg,a photo of a English foxhound.
+./data/synthetic/synthetic_data_b/MNIST_Syn/661.jpeg,"a photo of a Chrysler Sebring Convertible 2010, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/662.jpeg,a photo of a sailboat.
+./data/synthetic/synthetic_data_b/MNIST_Syn/663.jpeg,"a photo of a Daewoo Nubira Wagon 2002, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/664.jpeg,a photo of a power drill.
+./data/synthetic/synthetic_data_b/MNIST_Syn/665.jpeg,a photo of a Rhodesian Ridgeback.
+./data/synthetic/synthetic_data_b/MNIST_Syn/666.jpeg,"a photo of a Lincoln Town Car Sedan 2011, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/667.jpeg,a photo of a Old English Sheepdog.
+./data/synthetic/synthetic_data_b/MNIST_Syn/668.jpeg,a photo of a isopod.
+./data/synthetic/synthetic_data_b/MNIST_Syn/669.jpeg,"a photo of a GMC Canyon Extended Cab 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/670.jpeg,"a photo of a BMW M6 Convertible 2010, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/671.jpeg,a photo of a backpack.
+./data/synthetic/synthetic_data_b/MNIST_Syn/672.jpeg,"a photo of a Porsche Panamera Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/673.jpeg,"a photo of a FIAT 500 Convertible 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/674.jpeg,a photo of a rhinoceros beetle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/675.jpeg,a photo of a marmot.
+./data/synthetic/synthetic_data_b/MNIST_Syn/676.jpeg,a photo of a mountain bike.
+./data/synthetic/synthetic_data_b/MNIST_Syn/677.jpeg,"a photo of a Chevrolet Cobalt SS 2010, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/678.jpeg,a photo of a window screen.
+./data/synthetic/synthetic_data_b/MNIST_Syn/679.jpeg,a photo of a Greater Swiss Mountain Dog.
+./data/synthetic/synthetic_data_b/MNIST_Syn/680.jpeg,a photo of a banjo.
+./data/synthetic/synthetic_data_b/MNIST_Syn/681.jpeg,"a photo of a Volvo XC90 SUV 2007, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/682.jpeg,"a photo of a Acura RL Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/683.jpeg,a photo of a Norwich Terrier.
+./data/synthetic/synthetic_data_b/MNIST_Syn/684.jpeg,"a photo of a Bugatti Veyron 16.4 Coupe 2009, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/685.jpeg,a photo of a split-rail fence.
+./data/synthetic/synthetic_data_b/MNIST_Syn/686.jpeg,a photo of a snail.
+./data/synthetic/synthetic_data_b/MNIST_Syn/687.jpeg,a photo of a ice cream.
+./data/synthetic/synthetic_data_b/MNIST_Syn/688.jpeg,a photo of a Alaskan tundra wolf.
+./data/synthetic/synthetic_data_b/MNIST_Syn/689.jpeg,"a photo of a Cadillac SRX SUV 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/690.jpeg,a photo of a teddy bear.
+./data/synthetic/synthetic_data_b/MNIST_Syn/691.jpeg,a photo of a mashed potatoes.
+./data/synthetic/synthetic_data_b/MNIST_Syn/692.jpeg,"a photo of a Land Rover LR2 SUV 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/693.jpeg,a photo of a Dungeness crab.
+./data/synthetic/synthetic_data_b/MNIST_Syn/694.jpeg,"a photo of a Jeep Patriot SUV 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/695.jpeg,a photo of a cardoon.
+./data/synthetic/synthetic_data_b/MNIST_Syn/696.jpeg,a photo of a lotion.
+./data/synthetic/synthetic_data_b/MNIST_Syn/697.jpeg,a photo of a alligator lizard.
+./data/synthetic/synthetic_data_b/MNIST_Syn/698.jpeg,a photo of a keyboard space bar.
+./data/synthetic/synthetic_data_b/MNIST_Syn/699.jpeg,a photo of a Crock Pot.
+./data/synthetic/synthetic_data_b/MNIST_Syn/700.jpeg,a photo of a stingray.
+./data/synthetic/synthetic_data_b/MNIST_Syn/701.jpeg,a photo of a ring binder.
+./data/synthetic/synthetic_data_b/MNIST_Syn/702.jpeg,"a photo of a Tesla Model S Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/703.jpeg,a photo of a dugong.
+./data/synthetic/synthetic_data_b/MNIST_Syn/704.jpeg,a photo of a bee eater.
+./data/synthetic/synthetic_data_b/MNIST_Syn/705.jpeg,a photo of a semi-trailer truck.
+./data/synthetic/synthetic_data_b/MNIST_Syn/706.jpeg,a photo of a railroad car.
+./data/synthetic/synthetic_data_b/MNIST_Syn/707.jpeg,a photo of a flamingo.
+./data/synthetic/synthetic_data_b/MNIST_Syn/708.jpeg,"a photo of a Ford Expedition EL SUV 2009, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/709.jpeg,a photo of a spiny lobster.
+./data/synthetic/synthetic_data_b/MNIST_Syn/710.jpeg,a photo of a common redshank.
+./data/synthetic/synthetic_data_b/MNIST_Syn/711.jpeg,a photo of a red wine.
+./data/synthetic/synthetic_data_b/MNIST_Syn/712.jpeg,a photo of a green mamba.
+./data/synthetic/synthetic_data_b/MNIST_Syn/713.jpeg,a photo of a hammer.
+./data/synthetic/synthetic_data_b/MNIST_Syn/714.jpeg,a photo of a sunglasses.
+./data/synthetic/synthetic_data_b/MNIST_Syn/715.jpeg,a photo of a gibbon.
+./data/synthetic/synthetic_data_b/MNIST_Syn/716.jpeg,a photo of a red fox.
+./data/synthetic/synthetic_data_b/MNIST_Syn/717.jpeg,a photo of a tobacco shop.
+./data/synthetic/synthetic_data_b/MNIST_Syn/718.jpeg,a photo of a rotisserie.
+./data/synthetic/synthetic_data_b/MNIST_Syn/719.jpeg,a photo of a screw.
+./data/synthetic/synthetic_data_b/MNIST_Syn/720.jpeg,a photo of a crossword.
+./data/synthetic/synthetic_data_b/MNIST_Syn/721.jpeg,a photo of a salt shaker.
+./data/synthetic/synthetic_data_b/MNIST_Syn/722.jpeg,a photo of a ruler measuring stick.
+./data/synthetic/synthetic_data_b/MNIST_Syn/723.jpeg,a photo of a Bluetick Coonhound.
+./data/synthetic/synthetic_data_b/MNIST_Syn/724.jpeg,"a photo of a Fisker Karma Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/725.jpeg,a photo of a coyote.
+./data/synthetic/synthetic_data_b/MNIST_Syn/726.jpeg,a photo of a Petri dish.
+./data/synthetic/synthetic_data_b/MNIST_Syn/727.jpeg,a photo of a Boxer.
+./data/synthetic/synthetic_data_b/MNIST_Syn/728.jpeg,a photo of a orangutan.
+./data/synthetic/synthetic_data_b/MNIST_Syn/729.jpeg,"a photo of a Ferrari FF Coupe 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/730.jpeg,a photo of a soap dispenser.
+./data/synthetic/synthetic_data_b/MNIST_Syn/731.jpeg,"a photo of a Dodge Caliber Wagon 2007, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/732.jpeg,a photo of a Chow Chow.
+./data/synthetic/synthetic_data_b/MNIST_Syn/733.jpeg,a photo of a hunting bow.
+./data/synthetic/synthetic_data_b/MNIST_Syn/734.jpeg,a photo of a rooster.
+./data/synthetic/synthetic_data_b/MNIST_Syn/735.jpeg,a photo of a European green lizard.
+./data/synthetic/synthetic_data_b/MNIST_Syn/736.jpeg,a photo of a jigsaw puzzle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/737.jpeg,a photo of a Granny Smith apple.
+./data/synthetic/synthetic_data_b/MNIST_Syn/738.jpeg,"a photo of a Ford E-Series Wagon Van 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/739.jpeg,a photo of a tray.
+./data/synthetic/synthetic_data_b/MNIST_Syn/740.jpeg,"a photo of a Dodge Dakota Crew Cab 2010, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/741.jpeg,a photo of a saxophone.
+./data/synthetic/synthetic_data_b/MNIST_Syn/742.jpeg,a photo of a candle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/743.jpeg,a photo of a spiral or coil.
+./data/synthetic/synthetic_data_b/MNIST_Syn/744.jpeg,a photo of a cucumber.
+./data/synthetic/synthetic_data_b/MNIST_Syn/745.jpeg,a photo of a pedestal.
+./data/synthetic/synthetic_data_b/MNIST_Syn/746.jpeg,a photo of a leafhopper.
+./data/synthetic/synthetic_data_b/MNIST_Syn/747.jpeg,a photo of a four-poster bed.
+./data/synthetic/synthetic_data_b/MNIST_Syn/748.jpeg,a photo of a African bush elephant.
+./data/synthetic/synthetic_data_b/MNIST_Syn/749.jpeg,a photo of a collie.
+./data/synthetic/synthetic_data_b/MNIST_Syn/750.jpeg,a photo of a sea snake.
+./data/synthetic/synthetic_data_b/MNIST_Syn/751.jpeg,a photo of a tile roof.
+./data/synthetic/synthetic_data_b/MNIST_Syn/752.jpeg,"a photo of a macarons, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/753.jpeg,a photo of a tailed frog.
+./data/synthetic/synthetic_data_b/MNIST_Syn/754.jpeg,a photo of a storage chest.
+./data/synthetic/synthetic_data_b/MNIST_Syn/755.jpeg,a photo of a barbell.
+./data/synthetic/synthetic_data_b/MNIST_Syn/756.jpeg,a photo of a American coot.
+./data/synthetic/synthetic_data_b/MNIST_Syn/757.jpeg,a photo of a Curly-coated Retriever.
+./data/synthetic/synthetic_data_b/MNIST_Syn/758.jpeg,"a photo of a chicken wings, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/759.jpeg,a photo of a sidewinder rattlesnake.
+./data/synthetic/synthetic_data_b/MNIST_Syn/760.jpeg,a photo of a sailboat.
+./data/synthetic/synthetic_data_b/MNIST_Syn/761.jpeg,"a photo of a croque madame, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/762.jpeg,a photo of a goose.
+./data/synthetic/synthetic_data_b/MNIST_Syn/763.jpeg,a photo of a cloak.
+./data/synthetic/synthetic_data_b/MNIST_Syn/764.jpeg,a photo of a lorikeet.
+./data/synthetic/synthetic_data_b/MNIST_Syn/765.jpeg,a photo of a stethoscope.
+./data/synthetic/synthetic_data_b/MNIST_Syn/766.jpeg,a photo of a water bottle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/767.jpeg,a photo of a car wheel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/768.jpeg,"a photo of a Ford F-450 Super Duty Crew Cab 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/769.jpeg,a photo of a tandem bicycle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/770.jpeg,a photo of a sea slug.
+./data/synthetic/synthetic_data_b/MNIST_Syn/771.jpeg,a photo of a cougar.
+./data/synthetic/synthetic_data_b/MNIST_Syn/772.jpeg,"a photo of a BMW X5 SUV 2007, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/773.jpeg,a photo of a hard disk drive.
+./data/synthetic/synthetic_data_b/MNIST_Syn/774.jpeg,a photo of a car wheel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/775.jpeg,"a photo of a Spyker C8 Coupe 2009, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/776.jpeg,a photo of a milk can.
+./data/synthetic/synthetic_data_b/MNIST_Syn/777.jpeg,"a photo of a Suzuki SX4 Hatchback 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/778.jpeg,"a photo of a croque madame, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/779.jpeg,a photo of a minivan.
+./data/synthetic/synthetic_data_b/MNIST_Syn/780.jpeg,a photo of a CD player.
+./data/synthetic/synthetic_data_b/MNIST_Syn/781.jpeg,a photo of a ladle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/782.jpeg,a photo of a cheetah.
+./data/synthetic/synthetic_data_b/MNIST_Syn/783.jpeg,"a photo of a Chevrolet TrailBlazer SS 2009, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/784.jpeg,a photo of a poke bonnet.
+./data/synthetic/synthetic_data_b/MNIST_Syn/785.jpeg,a photo of a table lamp.
+./data/synthetic/synthetic_data_b/MNIST_Syn/786.jpeg,a photo of a knee pad.
+./data/synthetic/synthetic_data_b/MNIST_Syn/787.jpeg,a photo of a fountain pen.
+./data/synthetic/synthetic_data_b/MNIST_Syn/788.jpeg,a photo of a crayfish.
+./data/synthetic/synthetic_data_b/MNIST_Syn/789.jpeg,"a photo of a Infiniti G Coupe IPL 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/790.jpeg,"a photo of a ceviche, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/791.jpeg,a photo of a European polecat.
+./data/synthetic/synthetic_data_b/MNIST_Syn/792.jpeg,"a photo of a sashimi, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/793.jpeg,a photo of a trolleybus.
+./data/synthetic/synthetic_data_b/MNIST_Syn/794.jpeg,"a photo of a Hyundai Elantra Touring Hatchback 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/795.jpeg,"a photo of a Audi V8 Sedan 1994, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/796.jpeg,a photo of a toucan.
+./data/synthetic/synthetic_data_b/MNIST_Syn/797.jpeg,a photo of a railroad car.
+./data/synthetic/synthetic_data_b/MNIST_Syn/798.jpeg,a photo of a schooner.
+./data/synthetic/synthetic_data_b/MNIST_Syn/799.jpeg,"a photo of a Chevrolet Silverado 1500 Regular Cab 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/800.jpeg,a photo of a military uniform.
+./data/synthetic/synthetic_data_b/MNIST_Syn/801.jpeg,a photo of a tennis ball.
+./data/synthetic/synthetic_data_b/MNIST_Syn/802.jpeg,a photo of a sunglasses.
+./data/synthetic/synthetic_data_b/MNIST_Syn/803.jpeg,a photo of a dung beetle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/804.jpeg,a photo of a kimono.
+./data/synthetic/synthetic_data_b/MNIST_Syn/805.jpeg,a photo of a sneaker.
+./data/synthetic/synthetic_data_b/MNIST_Syn/806.jpeg,a photo of a proboscis monkey.
+./data/synthetic/synthetic_data_b/MNIST_Syn/807.jpeg,"a photo of a Ferrari California Convertible 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/808.jpeg,a photo of a eggnog.
+./data/synthetic/synthetic_data_b/MNIST_Syn/809.jpeg,a photo of a chiffonier.
+./data/synthetic/synthetic_data_b/MNIST_Syn/810.jpeg,a photo of a breastplate.
+./data/synthetic/synthetic_data_b/MNIST_Syn/811.jpeg,a photo of a knee pad.
+./data/synthetic/synthetic_data_b/MNIST_Syn/812.jpeg,a photo of a American black bear.
+./data/synthetic/synthetic_data_b/MNIST_Syn/813.jpeg,a photo of a Granny Smith apple.
+./data/synthetic/synthetic_data_b/MNIST_Syn/814.jpeg,a photo of a Dungeness crab.
+./data/synthetic/synthetic_data_b/MNIST_Syn/815.jpeg,"a photo of a Lamborghini Gallardo LP 570-4 Superleggera 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/816.jpeg,a photo of a syringe.
+./data/synthetic/synthetic_data_b/MNIST_Syn/817.jpeg,a photo of a thatched roof.
+./data/synthetic/synthetic_data_b/MNIST_Syn/818.jpeg,"a photo of a Infiniti QX56 SUV 2011, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/819.jpeg,"a photo of a Dodge Ram Pickup 3500 Crew Cab 2010, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/820.jpeg,a photo of a dhole.
+./data/synthetic/synthetic_data_b/MNIST_Syn/821.jpeg,a photo of a ski.
+./data/synthetic/synthetic_data_b/MNIST_Syn/822.jpeg,a photo of a church.
+./data/synthetic/synthetic_data_b/MNIST_Syn/823.jpeg,a photo of a croquet ball.
+./data/synthetic/synthetic_data_b/MNIST_Syn/824.jpeg,a photo of a balance beam.
+./data/synthetic/synthetic_data_b/MNIST_Syn/825.jpeg,a photo of a muzzle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/826.jpeg,a photo of a Basset Hound.
+./data/synthetic/synthetic_data_b/MNIST_Syn/827.jpeg,a photo of a dust jacket.
+./data/synthetic/synthetic_data_b/MNIST_Syn/828.jpeg,a photo of a reflex camera.
+./data/synthetic/synthetic_data_b/MNIST_Syn/829.jpeg,a photo of a Lakeland Terrier.
+./data/synthetic/synthetic_data_b/MNIST_Syn/830.jpeg,"a photo of a Dodge Charger SRT-8 2009, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/831.jpeg,a photo of a eel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/832.jpeg,a photo of a koala.
+./data/synthetic/synthetic_data_b/MNIST_Syn/833.jpeg,a photo of a envelope.
+./data/synthetic/synthetic_data_b/MNIST_Syn/834.jpeg,a photo of a safety pin.
+./data/synthetic/synthetic_data_b/MNIST_Syn/835.jpeg,"a photo of a french toast, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/836.jpeg,"a photo of a fish and chips, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/837.jpeg,a photo of a black grouse.
+./data/synthetic/synthetic_data_b/MNIST_Syn/838.jpeg,a photo of a dugong.
+./data/synthetic/synthetic_data_b/MNIST_Syn/839.jpeg,a photo of a Asian elephant.
+./data/synthetic/synthetic_data_b/MNIST_Syn/840.jpeg,"a photo of a bibimbap, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/841.jpeg,"a photo of a Jeep Patriot SUV 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/842.jpeg,a photo of a tandem bicycle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/843.jpeg,a photo of a baseball player.
+./data/synthetic/synthetic_data_b/MNIST_Syn/844.jpeg,a photo of a barrel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/845.jpeg,a photo of a notebook computer.
+./data/synthetic/synthetic_data_b/MNIST_Syn/846.jpeg,a photo of a laptop computer.
+./data/synthetic/synthetic_data_b/MNIST_Syn/847.jpeg,a photo of a tree frog.
+./data/synthetic/synthetic_data_b/MNIST_Syn/848.jpeg,a photo of a swimming cap.
+./data/synthetic/synthetic_data_b/MNIST_Syn/849.jpeg,a photo of a snoek fish.
+./data/synthetic/synthetic_data_b/MNIST_Syn/850.jpeg,a photo of a Appenzeller Sennenhund.
+./data/synthetic/synthetic_data_b/MNIST_Syn/851.jpeg,a photo of a volcano.
+./data/synthetic/synthetic_data_b/MNIST_Syn/852.jpeg,a photo of a Christmas stocking.
+./data/synthetic/synthetic_data_b/MNIST_Syn/853.jpeg,"a photo of a french onion soup, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/854.jpeg,a photo of a ballpoint pen.
+./data/synthetic/synthetic_data_b/MNIST_Syn/855.jpeg,a photo of a space shuttle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/856.jpeg,a photo of a chain mail.
+./data/synthetic/synthetic_data_b/MNIST_Syn/857.jpeg,"a photo of a Hyundai Santa Fe SUV 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/858.jpeg,a photo of a mitten.
+./data/synthetic/synthetic_data_b/MNIST_Syn/859.jpeg,a photo of a grand piano.
+./data/synthetic/synthetic_data_b/MNIST_Syn/860.jpeg,a photo of a school bus.
+./data/synthetic/synthetic_data_b/MNIST_Syn/861.jpeg,a photo of a banana.
+./data/synthetic/synthetic_data_b/MNIST_Syn/862.jpeg,"a photo of a Dodge Challenger SRT8 2011, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/863.jpeg,a photo of a poncho.
+./data/synthetic/synthetic_data_b/MNIST_Syn/864.jpeg,a photo of a lotion.
+./data/synthetic/synthetic_data_b/MNIST_Syn/865.jpeg,a photo of a disc brake.
+./data/synthetic/synthetic_data_b/MNIST_Syn/866.jpeg,a photo of a pool table.
+./data/synthetic/synthetic_data_b/MNIST_Syn/867.jpeg,"a photo of a Cadillac CTS-V Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/868.jpeg,"a photo of a Audi TT Hatchback 2011, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/869.jpeg,a photo of a banana.
+./data/synthetic/synthetic_data_b/MNIST_Syn/870.jpeg,a photo of a Australian Silky Terrier.
+./data/synthetic/synthetic_data_b/MNIST_Syn/871.jpeg,a photo of a dough.
+./data/synthetic/synthetic_data_b/MNIST_Syn/872.jpeg,a photo of a miniskirt.
+./data/synthetic/synthetic_data_b/MNIST_Syn/873.jpeg,a photo of a balance beam.
+./data/synthetic/synthetic_data_b/MNIST_Syn/874.jpeg,a photo of a reflex camera.
+./data/synthetic/synthetic_data_b/MNIST_Syn/875.jpeg,a photo of a manhole cover.
+./data/synthetic/synthetic_data_b/MNIST_Syn/876.jpeg,a photo of a tank.
+./data/synthetic/synthetic_data_b/MNIST_Syn/877.jpeg,a photo of a hornbill.
+./data/synthetic/synthetic_data_b/MNIST_Syn/878.jpeg,"a photo of a Lamborghini Diablo Coupe 2001, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/879.jpeg,a photo of a bookcase.
+./data/synthetic/synthetic_data_b/MNIST_Syn/880.jpeg,a photo of a mongoose.
+./data/synthetic/synthetic_data_b/MNIST_Syn/881.jpeg,a photo of a loggerhead sea turtle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/882.jpeg,a photo of a dishwasher.
+./data/synthetic/synthetic_data_b/MNIST_Syn/883.jpeg,"a photo of a Hyundai Sonata Hybrid Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/884.jpeg,"a photo of a apple pie, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/885.jpeg,"a photo of a Toyota Camry Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/886.jpeg,a photo of a thimble.
+./data/synthetic/synthetic_data_b/MNIST_Syn/887.jpeg,a photo of a hourglass.
+./data/synthetic/synthetic_data_b/MNIST_Syn/888.jpeg,a photo of a cricket insect.
+./data/synthetic/synthetic_data_b/MNIST_Syn/889.jpeg,a photo of a accordion.
+./data/synthetic/synthetic_data_b/MNIST_Syn/890.jpeg,a photo of a moving van.
+./data/synthetic/synthetic_data_b/MNIST_Syn/891.jpeg,a photo of a cannon.
+./data/synthetic/synthetic_data_b/MNIST_Syn/892.jpeg,a photo of a scabbard.
+./data/synthetic/synthetic_data_b/MNIST_Syn/893.jpeg,"a photo of a Mitsubishi Lancer Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/894.jpeg,a photo of a cocktail shaker.
+./data/synthetic/synthetic_data_b/MNIST_Syn/895.jpeg,"a photo of a Audi S4 Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/896.jpeg,"a photo of a Honda Accord Coupe 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/897.jpeg,a photo of a oxygen mask.
+./data/synthetic/synthetic_data_b/MNIST_Syn/898.jpeg,a photo of a desktop computer.
+./data/synthetic/synthetic_data_b/MNIST_Syn/899.jpeg,"a photo of a AM General Hummer SUV 2000, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/900.jpeg,"a photo of a Acura TSX Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/901.jpeg,a photo of a cucumber.
+./data/synthetic/synthetic_data_b/MNIST_Syn/902.jpeg,a photo of a hippopotamus.
+./data/synthetic/synthetic_data_b/MNIST_Syn/903.jpeg,a photo of a pillow.
+./data/synthetic/synthetic_data_b/MNIST_Syn/904.jpeg,a photo of a water buffalo.
+./data/synthetic/synthetic_data_b/MNIST_Syn/905.jpeg,a photo of a cougar.
+./data/synthetic/synthetic_data_b/MNIST_Syn/906.jpeg,"a photo of a GMC Yukon Hybrid SUV 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/907.jpeg,"a photo of a AM General Hummer SUV 2000, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/908.jpeg,a photo of a proboscis monkey.
+./data/synthetic/synthetic_data_b/MNIST_Syn/909.jpeg,"a photo of a Ford Ranger SuperCab 2011, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/910.jpeg,a photo of a fiddler crab.
+./data/synthetic/synthetic_data_b/MNIST_Syn/911.jpeg,"a photo of a Chevrolet Silverado 1500 Extended Cab 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/912.jpeg,a photo of a trilobite.
+./data/synthetic/synthetic_data_b/MNIST_Syn/913.jpeg,a photo of a Japanese Chin.
+./data/synthetic/synthetic_data_b/MNIST_Syn/914.jpeg,a photo of a goose.
+./data/synthetic/synthetic_data_b/MNIST_Syn/915.jpeg,a photo of a junco.
+./data/synthetic/synthetic_data_b/MNIST_Syn/916.jpeg,a photo of a electrical switch.
+./data/synthetic/synthetic_data_b/MNIST_Syn/917.jpeg,a photo of a tabby cat.
+./data/synthetic/synthetic_data_b/MNIST_Syn/918.jpeg,"a photo of a sushi, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/919.jpeg,a photo of a can opener.
+./data/synthetic/synthetic_data_b/MNIST_Syn/920.jpeg,a photo of a ruddy turnstone.
+./data/synthetic/synthetic_data_b/MNIST_Syn/921.jpeg,a photo of a bee.
+./data/synthetic/synthetic_data_b/MNIST_Syn/922.jpeg,a photo of a magpie.
+./data/synthetic/synthetic_data_b/MNIST_Syn/923.jpeg,a photo of a binoculars.
+./data/synthetic/synthetic_data_b/MNIST_Syn/924.jpeg,"a photo of a BMW M6 Convertible 2010, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/925.jpeg,a photo of a cheeseburger.
+./data/synthetic/synthetic_data_b/MNIST_Syn/926.jpeg,a photo of a rifle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/927.jpeg,a photo of a spiny lobster.
+./data/synthetic/synthetic_data_b/MNIST_Syn/928.jpeg,"a photo of a oysters, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/929.jpeg,"a photo of a nachos, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/930.jpeg,a photo of a rose hip.
+./data/synthetic/synthetic_data_b/MNIST_Syn/931.jpeg,a photo of a toilet paper.
+./data/synthetic/synthetic_data_b/MNIST_Syn/932.jpeg,a photo of a tailed frog.
+./data/synthetic/synthetic_data_b/MNIST_Syn/933.jpeg,a photo of a junco.
+./data/synthetic/synthetic_data_b/MNIST_Syn/934.jpeg,"a photo of a Dodge Dakota Crew Cab 2010, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/935.jpeg,"a photo of a Hyundai Veloster Hatchback 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/936.jpeg,a photo of a swim trunks / shorts.
+./data/synthetic/synthetic_data_b/MNIST_Syn/937.jpeg,a photo of a great grey owl.
+./data/synthetic/synthetic_data_b/MNIST_Syn/938.jpeg,a photo of a leatherback sea turtle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/939.jpeg,"a photo of a Dodge Caravan Minivan 1997, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/940.jpeg,a photo of a fountain.
+./data/synthetic/synthetic_data_b/MNIST_Syn/941.jpeg,"a photo of a Eagle Talon Hatchback 1998, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/942.jpeg,a photo of a hammer.
+./data/synthetic/synthetic_data_b/MNIST_Syn/943.jpeg,a photo of a mud turtle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/944.jpeg,"a photo of a BMW 3 Series Sedan 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/945.jpeg,a photo of a upright piano.
+./data/synthetic/synthetic_data_b/MNIST_Syn/946.jpeg,a photo of a chimpanzee.
+./data/synthetic/synthetic_data_b/MNIST_Syn/947.jpeg,a photo of a Cocker Spaniel.
+./data/synthetic/synthetic_data_b/MNIST_Syn/948.jpeg,a photo of a Giant Schnauzer.
+./data/synthetic/synthetic_data_b/MNIST_Syn/949.jpeg,"a photo of a Chevrolet Silverado 1500 Extended Cab 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/950.jpeg,a photo of a leaf beetle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/951.jpeg,a photo of a chiffonier.
+./data/synthetic/synthetic_data_b/MNIST_Syn/952.jpeg,a photo of a clownfish.
+./data/synthetic/synthetic_data_b/MNIST_Syn/953.jpeg,"a photo of a panna cotta, a type of food."
+./data/synthetic/synthetic_data_b/MNIST_Syn/954.jpeg,"a photo of a Chrysler 300 SRT-8 2010, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/955.jpeg,a photo of a cradle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/956.jpeg,a photo of a drink pitcher.
+./data/synthetic/synthetic_data_b/MNIST_Syn/957.jpeg,a photo of a electric locomotive.
+./data/synthetic/synthetic_data_b/MNIST_Syn/958.jpeg,a photo of a space shuttle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/959.jpeg,a photo of a Basset Hound.
+./data/synthetic/synthetic_data_b/MNIST_Syn/960.jpeg,a photo of a rifle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/961.jpeg,a photo of a couch.
+./data/synthetic/synthetic_data_b/MNIST_Syn/962.jpeg,a photo of a spaghetti squash.
+./data/synthetic/synthetic_data_b/MNIST_Syn/963.jpeg,"a photo of a Maybach Landaulet Convertible 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/964.jpeg,a photo of a movie theater.
+./data/synthetic/synthetic_data_b/MNIST_Syn/965.jpeg,a photo of a broom.
+./data/synthetic/synthetic_data_b/MNIST_Syn/966.jpeg,a photo of a kimono.
+./data/synthetic/synthetic_data_b/MNIST_Syn/967.jpeg,a photo of a Black and Tan Coonhound.
+./data/synthetic/synthetic_data_b/MNIST_Syn/968.jpeg,a photo of a green mamba.
+./data/synthetic/synthetic_data_b/MNIST_Syn/969.jpeg,a photo of a Airedale Terrier.
+./data/synthetic/synthetic_data_b/MNIST_Syn/970.jpeg,a photo of a stretcher.
+./data/synthetic/synthetic_data_b/MNIST_Syn/971.jpeg,a photo of a saxophone.
+./data/synthetic/synthetic_data_b/MNIST_Syn/972.jpeg,a photo of a safety pin.
+./data/synthetic/synthetic_data_b/MNIST_Syn/973.jpeg,"a photo of a Hyundai Tucson SUV 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/974.jpeg,a photo of a geyser.
+./data/synthetic/synthetic_data_b/MNIST_Syn/975.jpeg,a photo of a slug.
+./data/synthetic/synthetic_data_b/MNIST_Syn/976.jpeg,a photo of a chickadee.
+./data/synthetic/synthetic_data_b/MNIST_Syn/977.jpeg,a photo of a Alpine ibex.
+./data/synthetic/synthetic_data_b/MNIST_Syn/978.jpeg,a photo of a borzoi.
+./data/synthetic/synthetic_data_b/MNIST_Syn/979.jpeg,"a photo of a Audi S4 Sedan 2007, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/980.jpeg,a photo of a viaduct.
+./data/synthetic/synthetic_data_b/MNIST_Syn/981.jpeg,a photo of a neck brace.
+./data/synthetic/synthetic_data_b/MNIST_Syn/982.jpeg,"a photo of a Mazda Tribute SUV 2011, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/983.jpeg,a photo of a Boston Terrier.
+./data/synthetic/synthetic_data_b/MNIST_Syn/984.jpeg,"a photo of a Daewoo Nubira Wagon 2002, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/985.jpeg,a photo of a african grey parrot.
+./data/synthetic/synthetic_data_b/MNIST_Syn/986.jpeg,a photo of a candle.
+./data/synthetic/synthetic_data_b/MNIST_Syn/987.jpeg,a photo of a bassoon.
+./data/synthetic/synthetic_data_b/MNIST_Syn/988.jpeg,"a photo of a Mercedes-Benz 300-Class Convertible 1993, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/989.jpeg,a photo of a coral reef.
+./data/synthetic/synthetic_data_b/MNIST_Syn/990.jpeg,a photo of a fire truck.
+./data/synthetic/synthetic_data_b/MNIST_Syn/991.jpeg,a photo of a jacamar.
+./data/synthetic/synthetic_data_b/MNIST_Syn/992.jpeg,a photo of a Japanese Chin.
+./data/synthetic/synthetic_data_b/MNIST_Syn/993.jpeg,a photo of a golf ball.
+./data/synthetic/synthetic_data_b/MNIST_Syn/994.jpeg,"a photo of a Ford F-150 Regular Cab 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/995.jpeg,"a photo of a Land Rover LR2 SUV 2012, a type of car."
+./data/synthetic/synthetic_data_b/MNIST_Syn/996.jpeg,a photo of a eastern diamondback rattlesnake.
+./data/synthetic/synthetic_data_b/MNIST_Syn/997.jpeg,a photo of a chimpanzee.
+./data/synthetic/synthetic_data_b/MNIST_Syn/998.jpeg,a photo of a matchstick.
+./data/synthetic/synthetic_data_b/MNIST_Syn/999.jpeg,a photo of a tailed frog.

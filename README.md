@@ -1,17 +1,35 @@
-# Synthetic Data is an Elegant GIFT for Continual Vision-Language Models
+<h1 align='center'>Synthetic Data is an Elegant GIFT for Continual Vision-Language Models</h1>
 
-This is the official implementation of paper "Synthetic Data is an Elegant GIFT for Continual Vision-Language Models" CVPR 2025. In the paper we present GIFT, a novel continual fine-tuning approach for vision-language models, aimed at leveraging synthetic data to mitigate catastrophic forgetting. The code we provide can be used to reproduce the results of our method in the MTIL experimental setting.
+<p align="center">
+School of Computer Science, Wuhan University; Wuhan AI Research<br />
+Bin Wu, Wuxuan Shi, Jinqiao Wang and Mang Ye
+</p>
 
-## Table of Contents
-- [Synthetic Data is an Elegant GIFT for Continual Vision-Language Models](#synthetic-data-is-an-elegant-gift-for-continual-vision-language-models)
-  - [Table of Contents](#table-of-contents)
-  - [Overview](#overview)
-  - [Configure the Project](#configure-the-project)
-  - [Environment Set Up](#environment-set-up)
-  - [Prepare to Generate Images](#prepare-to-generate-images)
-  - [Prepare MTIL Datasets](#prepare-mtil-datasets)
-  - [Run Experiments](#run-experiments)
-  - [Acknowledgement](#acknowledgement)
+<p align="center">
+    <a href="https://arxiv.org/abs/2503.04229"><img src="https://img.shields.io/badge/ArXiv-2503.04229-b31b1b.svg?logo=arXiv"></a>
+</p>
+
+<p align="center">
+    <a href="#overview">Overview</a> |
+    <a href="#configure-the-project">Configure the Project</a> |
+    <a href="#environment-set-up">Environment Set Up</a> |
+    <a href="#prepare-to-generate-images">Prepare to Generate Images</a> |
+    <a href="#prepare-mtil-datasets">Prepare MTIL Datasets</a> |
+    <a href="#run-experiments">Run Experiments</a> |
+    <a href="#acknowledgement">Acknowledgement</a>
+</p>
+
+[CVPR 2025] This is the official implementation of paper "Synthetic Data is an Elegant GIFT for Continual Vision-Language Models". In the paper we present GIFT, a novel continual fine-tuning approach for vision-language models, aimed at leveraging synthetic data to mitigate catastrophic forgetting. The code we provide can be used to reproduce the results of our method in the MTIL experimental setting.
+
+If you find our work useful for your research, please consider citing the paper:
+```
+@inproceedings{wu2025synthetic,
+  title={Synthetic Data is an Elegant GIFT for Continual Vision-Language Models},
+  author={Bin Wu, Wuxuan Shi, Jinqiao Wang and Mang Ye},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  year={2025}
+}
+```
 
 ## Overview
 
@@ -27,8 +45,8 @@ In order to run the code properly, you must first fill in the corresponding path
 {
     "_comment": "configure the path for project",
     "CL_DATA_LOCATION": null,
-    "MTIL_DATA_LOCATION": "./mtil",
-    "SYN_DATA_LOCATION": "./",
+    "MTIL_DATA_LOCATION": "./data/mtil",
+    "SYN_DATA_LOCATION": "./data/synthetic",
     "CKPT_LOCATION": ".ckpt/"
 }
 ```

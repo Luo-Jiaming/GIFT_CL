@@ -152,8 +152,6 @@ def run_experiment(config_path):
             "--eval-datasets=" + eval_dataset,
             "--devices", str(config["devices"][0])
         ]
-        if 'text_ensemble_test' in config and config['text_ensemble_test']:
-            cmd.append("--text_ensemble_test")
         subprocess.run(cmd)
 
     # evaluate
@@ -174,8 +172,6 @@ def run_experiment(config_path):
                 "--load", save_path + "exp_" + exp_no + "/" + dataset_cur + ".pth",
                 "--devices", str(config["devices"][0])
             ]
-            if 'text_ensemble_test' in config and config['text_ensemble_test']:
-                cmd.append("--text_ensemble_test")
             subprocess.run(cmd)
     
     print("Experiment %s finished!"%(exp_no))

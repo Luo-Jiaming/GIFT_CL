@@ -24,16 +24,13 @@ def accuracy(output, target, topk=(1,)):
 
 
 @torch.no_grad()
-def zeroshot_classifier(classnames, templates, model, prompts):
+def zeroshot_classifier(classnames, templates, model):
     if not isinstance(templates, list):
         templates = [templates]
     zeroshot_weights = []
     
     for classname in classnames:
-        if prompts is not None:
-            texts = prompts[classname]
-        else:
-            texts = [template(classname) for template in templates]  # format with class
+        texts = [template(classname) for template in templates]  # format with class
         texts = clip.tokenize(texts).cuda()  # tokenize
         class_embeddings = model.encode_text(texts)  # embed with text encoder
         class_embeddings /= class_embeddings.norm(dim=-1, keepdim=True)
@@ -69,7 +66,7 @@ def zeroshot_eval(model, loader, zeroshot_weights):
     return top1, top5
 
 
-def eval_single_dataset(image_classifier, dataset, prompts, args):
+def eval_single_dataset(image_classifier, dataset, args):
     model = image_classifier
     input_key = "images"
     image_enc = None
@@ -77,7 +74,7 @@ def eval_single_dataset(image_classifier, dataset, prompts, args):
     model.eval()
 
     zeroshot_weights = zeroshot_classifier(
-        dataset.classnames, dataset.templates, model, prompts
+        dataset.classnames, dataset.templates, model
     )
 
     dataloader = get_dataloader(
@@ -126,11 +123,5 @@ def evaluate(image_classifier, args, val_preprocess, tra_preprocess=None):
                 batch_size=args.batch_size,
                 batch_size_eval=args.batch_size_eval,
             )
-        
-        if args.text_ensemble_test and dataset_name!= 'ImageNet':
-            dataset.get_prompts(f'./prompts/{dataset_name}_prompts.pkl')
-            prompts = dataset.prompts
-        else:
-            prompts = None
 
-        eval_single_dataset(image_classifier, dataset, prompts, args)
+        eval_single_dataset(image_classifier, dataset, args)

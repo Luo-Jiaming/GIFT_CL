@@ -176,8 +176,9 @@ def finetune_gift(args):
         embeddings = embeddings / embeddings.norm(dim=-1, keepdim=True)
         logits_per_image = logit_scale.exp() * out @ embeddings.t()
 
+        loss = 0
         ce_loss = F.cross_entropy(logits_per_image, labels, label_smoothing=args.ls)
-        loss = ce_loss
+        loss += ce_loss
         loss_dict['ce_loss'] = ce_loss.item()
 
         batch_acc = (logits_per_image.argmax(dim=-1) == labels).float().mean().item()
@@ -231,8 +232,8 @@ def finetune_gift(args):
             ref_equal_labels = (ref_labels_repeated == ref_labels.view(-1, 1)).type(torch.float)
             batch_ref_labels = ref_equal_labels / torch.sum(ref_equal_labels, dim=1).view(-1, 1).cuda()
 
+            distill_loss = 0
             if args.distill > 0:
-                distill_loss = 0
                 # if args.image_loss:
                 if args.feature_mse: # another form of KD under mild assumption
                     # image_distill_loss = args.distill * F.mse_loss(logits_ref, logits_current)
@@ -255,8 +256,8 @@ def finetune_gift(args):
                 distill_loss += text_distill_loss
                 loss += distill_loss
 
+            ita_loss = 0
             if args.ita > 0:
-                ita_loss = 0
                 # if args.image_loss:
                 image_ita_loss = args.ita * F.cross_entropy(logits_current, batch_ref_labels, label_smoothing=args.ls)
                 loss_dict['image_ita_loss'] = image_ita_loss.item()
@@ -271,12 +272,7 @@ def finetune_gift(args):
             if args.awc and (args.static_awc == 0 or iteration < args.static_awc):
                 optimizer.zero_grad()
 
-                if args.ita > 0 and args.distill > 0:
-                    (distill_loss+ita_loss).backward(retain_graph=True)
-                elif args.ita == 0:
-                    distill_loss.backward(retain_graph=True)
-                elif args.distill == 0:
-                    ita_loss.backward(retain_graph=True)
+                (distill_loss+ita_loss).backward()
 
                 active_params = {n: p for n, p in model.named_parameters()}
 
@@ -317,7 +313,7 @@ def finetune_gift(args):
 
         # update
         if args.awc:
-            (wc_loss+ce_loss).backward()
+            (ce_loss+wc_loss).backward()
         else:
             optimizer.zero_grad()
             loss.backward()

@@ -53,7 +53,7 @@ In order to run the code properly, you must first fill in the corresponding path
 
 Here is an explanation of each item:
 
-- `CL_DATA_LOCATION`: where the CIL datasets are. (not used in this project)
+- `CL_DATA_LOCATION`: where the CIL datasets are. (not used in this repo)
 - `MTIL_DATA_LOCATION`: where the MTIL datasets are.
 - `SYN_DATA_LOCATION`: where the synthetic datasets are.
 - `CKPT_LOCATION`: where to store checkpoints.

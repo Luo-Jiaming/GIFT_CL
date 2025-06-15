@@ -1,7 +1,7 @@
 import numpy as np
 import pandas as pd
 
-def save_result(file_path, result_name, task_num=11, eval_num=11, save_path='./results/', is_print=False):
+def save_result(file_path, result_name=None, task_num=11, eval_num=11, save_path='./results/', is_print=False, is_save=False):
     lines = []
     file = open(file_path, "r")
     for line in file:
@@ -15,7 +15,10 @@ def save_result(file_path, result_name, task_num=11, eval_num=11, save_path='./r
 
     acc_mat = np.array(accs)
     df = pd.DataFrame(acc_mat.reshape((task_num,eval_num)))
-    df.to_csv(save_path+f'{result_name}.csv', index=False)
+
+    if is_save and result_name is not None:
+        df.to_csv(save_path+f'{result_name}.csv', index=False)
+    return df
 
 def get_metrics(data):
     data = np.array(data)

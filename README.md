@@ -25,8 +25,9 @@ If you find our work useful for your research, please consider citing the paper:
 ```
 @inproceedings{wu2025synthetic,
   title={Synthetic Data is an Elegant GIFT for Continual Vision-Language Models},
-  author={Bin Wu, Wuxuan Shi, Jinqiao Wang and Mang Ye},
+  author={Wu, Bin and Shi, Wuxuan and Wang, Jinqiao and Ye, Mang},
   booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={2813--2823},
   year={2025}
 }
 ```
